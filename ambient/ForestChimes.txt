@@ -1,0 +1,9 @@
+author: Rick Hoppmann 'TinyWorlds' (http://www.tinyworlds.org/)
+license: Public Domain (CC0)
+origin: https://opengameart.org/content/forest-ambience
+
+Created for my entry to Ludum Dare 29 : The Woods.
+It loops seamlessly and is ready to be used in your projects!
+
+Play "The Woods"
+http://www.tinyworlds.org/the-woods.html

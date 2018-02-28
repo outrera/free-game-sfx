@@ -1,0 +1,5 @@
+author: Rick Hoppmann 'TinyWorlds' (http://www.tinyworlds.org/)
+license: Public Domain (CC0)
+origin: https://opengameart.org/content/storm-siren
+
+Original sound by Rick Hoppmann. I've just removed that siren. -- Nikita Sadkov

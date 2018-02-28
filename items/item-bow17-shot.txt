@@ -1,0 +1,18 @@
+Author: Wesnoth Team
+License: GPLv2+
+Origin: http://www.rtsoft.com/pages/dink.php
+        http://www.gnu.org/software/freedink/
+
+Taken from open source release of Dink Smallwood, which has Wesnoth sounds edited to match real-time nature of the game.
+
+- bow1.wav
+
+  Launching an arrow
+
+  Origin: wesnoth/data/core/sounds/bow-miss.ogg
+  Author: ?
+  License: GPLv2+
+
+  Edited: Removed the sound of the arrow zooming away.
+  Copyright (C) 2010  Petteri Tolonen
+  License: GPLv2+

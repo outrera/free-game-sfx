@@ -1,0 +1,20 @@
+Author: Wesnoth Team
+License: GPLv2+
+Origin: http://www.rtsoft.com/pages/dink.php
+        http://www.gnu.org/software/freedink/
+
+Taken from open source release of Dink Smallwood, which has Wesnoth sounds edited to match real-time nature of the game.
+
+- arrow.wav
+
+  An arrow hitting something wooden
+
+  Origin: wesnoth/data/core/sounds/bow-hit.ogg
+  Author: ?
+  License: GPLv2+
+
+  Edited: shortened the arrow zoom sound in the beginning. The sound
+  of the arrow actually hitting something still comes a bit late, but
+  in my opinion it's not that big deal.
+  Copyright (C) 2010  Petteri Tolonen
+  License: GPLv2+

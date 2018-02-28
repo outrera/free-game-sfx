@@ -1,0 +1,7 @@
+Author: Nikita Sadkov
+License: Public Domain (CC0)
+Origin: https://github.com/saniv/free-game-sfx
+
+Following public domain samples were used:
+https://freesound.org/people/The_Chemical_Workshop/sounds/403253/
+https://freesound.org/people/jensfelger/sounds/367455/

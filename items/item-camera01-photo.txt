@@ -1,0 +1,12 @@
+author:  A Clock in the Kingdom
+license: Public Domain
+origin: https://archive.org/details/CameraShutterSound
+        https://opengameart.org/content/camera
+
+Camera Shutter Sound
+by A Clock in the Kingdom
+
+Usage http://creativecommons.org/publicdomain/zero/1.0/
+Topics shutter sound, Olympus E-1 DSLR
+recording of an Olympus E-1 digital SLR shutter... considered by many to have the "finest shutter sound" of a modern camera. Feel free to use this recording in any way you want.
+Identifier CameraShutterSound

@@ -1,0 +1,6 @@
+author: Rick Hoppmann 'TinyWorlds' (http://www.tinyworlds.org/)
+license: Public Domain (CC0)
+origin: https://opengameart.org/content/huh
+
+A cute interaction effect I created for a Samorost-like prototype.
+Could be used as sound when interacting with NPC/monsters.

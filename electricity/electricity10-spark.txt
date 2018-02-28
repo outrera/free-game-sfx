@@ -1,0 +1,5 @@
+Author: FreqMan
+License: CC-BY 3.0
+Origin: https://freesound.org/people/FreqMan/sounds/24726/
+
+A spark sound effect. From the "things you accidentally discover" department. I was tweaking an fm envelope when I found this - and thought to save the settings. This is a combination of two effects, but the original wave was created on SoundForge's Frequency Modulator with two waves. Take a 90Hz Triangle and modulate (one over the other) it with a 110Hz Sine. 10 second period. The Triangle should be set from 0 to 75% for the first .7 sec then drop it to 20%. Build to 25% at 7 seconds. Spike to 75% and then to zero from 7 to 7.5. The sine should go from 0 to 45% from 0 to .7 seconds. Then drop gradually to zero from .7 to 10 seconds. 

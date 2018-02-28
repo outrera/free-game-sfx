@@ -1,0 +1,7 @@
+Author: Jaakko Peltonen, NetHack Falcon's Eye Team
+License: NETHACK GENERAL PUBLIC LICENSE (equivalent to GPL2)
+Origin: http://falconseye.sourceforge.net/
+
+"All the binary files in this distribution are modified by 
+Jaakko Peltonen. The latest changes to the files are on 
+July 3, 2001."

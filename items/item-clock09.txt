@@ -1,0 +1,8 @@
+Author: Natalie, Marianne Gagnon
+License: Public Domain (CC0)
+Origin: pdsounds.org
+        https://sourceforge.net/projects/supertuxkart/
+
+based on sound by Natalie from pdsounds.org
+with modifications by Marianne Gagnon
+released under public domain

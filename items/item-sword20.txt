@@ -1,0 +1,5 @@
+author: FunWithSound
+license: Public Domain (CC0)
+origin: https://freesound.org/people/FunWithSound/sounds/361483/
+
+An mp3 recording of a sword fight between two people. Taken with a black Sony IC digital voice recorder.

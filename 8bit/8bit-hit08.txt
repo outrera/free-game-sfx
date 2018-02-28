@@ -1,0 +1,5 @@
+Author: krial
+License: Public Domain (CC0)
+Origin: http://opengameart.org/content/siclone-sound-effects
+
+Created as I needed them using LabChirp: http://labbed.net/software.php?id=labchirp

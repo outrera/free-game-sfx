@@ -1,0 +1,15 @@
+Author: Jose Ortiz 'MindChamber'
+License: CC0 (Public Domain)
+Origin: http://opengameart.org/content/nightstrike-png-assets
+
+Here are the Nightstrike assets in png format. My second game art from the OpenBundle by Nik. sorry it has taken so long to sit down and convert them, lifes been hectic, Ill ty and get the assets for Heavy Terror machine done much quicker.
+
+if there are any pieces of art I forgot to convert just let me know, or rip it from the fla yourself if you know how.
+
+the fla is provided at http://open.commonly.cc/
+
+Previews made using Spritesheet to Gif by Nic Liow
+http://sprite.commonly.cc/
+ 
+Attribution Instructions: 
+no restrictions, but if you wanna give me a shoutout, I wouldnt mind :3 MindChamber

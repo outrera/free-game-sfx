@@ -1,0 +1,6 @@
+author: Rick Hoppmann 'TinyWorlds' (http://www.tinyworlds.org/)
+license: Public Domain (CC0)
+origin: https://opengameart.org/content/horror-sfx
+
+Some horror effects I created while I was supposed to work.
+Includes 2 horror sounds as .wav.

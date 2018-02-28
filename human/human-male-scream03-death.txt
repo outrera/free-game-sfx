@@ -1,0 +1,7 @@
+Author: Dungeon Craft Team
+License: GPL2
+Origin: http://uaf.sourceforge.net/
+
+Dungeon Craft is an effort to develop an RPG and editor that mimics SSI's Forgotten Realms Unlimited Adventures (FRUA). A few improvements have been made over the original FRUA, 16/24/32-bit color, more levels allowed, editable items/monsters/spells, and the resulting design includes the game executable so that each design is playable without the editor. Other differences exist, but I have attempted to duplicate FRUA/Gold Box behavior as much as possible. Of course, suggested improvements have a good chance of making their way into the source code.
+
+Dungeon Craft is an Open Source project released under the Gnu Public License. Links to the latest release of source and executables are available on the downloads page. If you have comments or suggestions, please visit SourceForge where you may use our feature reguest and bug tracking systems, as well as check out the DC open forums and send messages to the game's developers.

@@ -1,0 +1,9 @@
+Author: jameswrowles
+License: CC-BY 3.0
+Origin: https://freesound.org/people/jameswrowles/sounds/253320/
+
+Found in the best mad professor's lab, a Jacobs Ladder is a spark gap in a cut off V formation \ / The spark will strike at the bottom then travel up as the hot plasma rises.. once the arc breaks at the top the spark should re-establish at the bottom again..
+
+Sample recorded from my home made Jacobs Ladder kit approx 14Kv, 2-3Kw, 50Hz
+
+Samson C01U mic

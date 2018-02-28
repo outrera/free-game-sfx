@@ -1,0 +1,5 @@
+Author: Jovica Storer (https://freesound.org/people/Jovica/)
+License: CC-BY 3.0
+Origin: https://freesound.org/people/Jovica/sounds/102913/
+
+LAYERS 018 - ALCHEMIC HUNTING was created using Camel Audio's magnificent Alchemy Synth and Voxengo's Pristine Space convolution reverb. Everything was done within Cubase 5 in 32 bit floating format and the conversion to 16 bit FLAC format was kept as the very last stage in the process. I sued some recordings made last year (2009) during the last weekend of June when I spent the weekend with my family in the region of Beauraing in the Ardennes in Belgium. We went to listen to an open air concert of hunting horns and I was permitted to record some of this impressive concert on my Zoom H4 recorder. I loaded a short one of these recordings within Alchemy and stretched it quite a bit using the granular synthesizing method and convoluted it with Pristine Space using another recording made during that same concert. The result is a menacing hunting drone. I sampled every key of the keyboard, so in total there are 128 samples in this package. Very suitable for soundtracks or installations.

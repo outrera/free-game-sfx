@@ -1,0 +1,7 @@
+author: dslrguide
+license: Public Domain (CC0)
+origin: https://freesound.org/people/dslrguide/sounds/321486/
+
+Squeezing a thick plastic bag from breadsticks to make a crunching sound.
+
+Recorded with a Rode VideoMic Pro into a Zoom H5 recorder.

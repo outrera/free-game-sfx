@@ -1,0 +1,6 @@
+author: Zyph, FunWithSound
+license: Public Domain (CC0)
+origin: http://www.flashkit.com/soundfx/Mayhem/Knife_Sword/Sword_cl-Zyph-8668/index.php
+        https://freesound.org/people/FunWithSound/sounds/361483/
+
+This is my mix of two public domain sounds by Zyph and FunWithSound

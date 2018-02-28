@@ -1,0 +1,10 @@
+Author: TNS Group, Inc.
+License: Public Domain (CC0)
+Origin: http://www.freesoundfiles.tintagel.net/Audio/
+
+
+* grab_collectable
+    obtained from : http://www.freesoundfiles.tintagel.net/Audio/
+    (see license text below)
+
+"These sound files are provided free of charge, without any representation or warranty whatsoever. To the best of our knowledge, all wave, midi, and audio files presented here are in the public domain and are available for use without restriction. DO NOT DIRECT-LINK TO THESE FILES! To use these files on your web site, right-click the file name and select "Save Target As" to download the file to your local computer; then upload the file to your web space."

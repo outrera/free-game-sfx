@@ -1,0 +1,5 @@
+Author: jensfelger
+License: Public Domain (CC0)
+Origin: https://freesound.org/people/jensfelger/sounds/367455/
+
+A Jacob's ladder or electric arc created with a high voltage installation at 50 Kilovolt recorded with a Sony PCM D100 at 196kHz/24bit.

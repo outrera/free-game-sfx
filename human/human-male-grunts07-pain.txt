@@ -1,0 +1,16 @@
+Author: Wesnoth Team
+License: GPLv2+
+Origin: http://www.rtsoft.com/pages/dink.php
+        http://www.gnu.org/software/freedink/
+
+Taken from open source release of Dink Smallwood, which has Wesnoth sounds edited to match real-time nature of the game.
+
+- grunt1.wav
+
+  Dink is hit.
+
+  Origin: wesnoth/data/core/sounds/human-hit-4.ogg
+  Author: ?
+  License: GPLv2+
+
+  Edited: changed the speed

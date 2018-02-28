@@ -1,0 +1,6 @@
+Author: SuperTuxKart Contributors
+License: GPL2
+Origin: https://sourceforge.net/projects/supertuxkart/
+
+* explosion
+    Released under the GNU GPL, coming from original (Super)TuxKart

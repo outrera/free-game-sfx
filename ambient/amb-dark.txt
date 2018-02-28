@@ -1,0 +1,7 @@
+Author: 7by7
+License: Public Domain (CC0)
+Origin: https://sourceforge.net/projects/supertuxkart/
+
+
+dark
+    By 7by7, released under CC0 (public domain)

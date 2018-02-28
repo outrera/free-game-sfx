@@ -1,0 +1,7 @@
+author: Stephan
+license: Public Domain (CC0)
+origin: http://flarerpg.org/
+
+Flare's code is released under GNU GPL v3 and the art is released under CC-BY-SA 3.0. Later versions allowed for both licenses.
+
+If you are interested in using any of the game's code or assets under a different license, please contact me or the appropriate artist listed below.

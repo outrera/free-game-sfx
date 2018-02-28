@@ -1,0 +1,8 @@
+Author: Nikita Sadkov
+License: Public Domain (CC0)
+Origin: https://github.com/saniv/free-game-sfx
+
+Following public domain sample by sophiehall3535 was used:
+https://freesound.org/people/sophiehall3535/sounds/245942/
+
+I cleaned it and mixed into something more game ready.

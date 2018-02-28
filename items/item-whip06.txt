@@ -1,0 +1,7 @@
+Author: snottyboi
+License: CC-BY 3.0
+Origin: https://sourceforge.net/projects/supertuxkart/
+    
+* swatter
+    By snottyboi, released under Creative Commons Attribution 3.0
+    from SoundBible ("Whip Crack Sound")

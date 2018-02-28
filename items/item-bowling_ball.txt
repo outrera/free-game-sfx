@@ -1,0 +1,8 @@
+Author: Marianne Gagnon 'Auria', daveincamas
+License: CC-BY-SA 3.0
+Origin: https://sourceforge.net/projects/supertuxkart/
+
+Released under the CC-BY-SA 3.0 license (sounds originally released under CC-Sampling+, but obtained permission
+from author to release them under CC-By-SA 3.0)
+By Marianne Gagnon (Auria), based on "PaintCan", "StoneSpinLong" and
+"PaintCanDropHardAndRoll" by daveincamas, released under the same license

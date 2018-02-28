@@ -1,0 +1,7 @@
+Author: Stephan
+License: Public Domain (CC0)
+Origin: pdsounds.org
+        https://sourceforge.net/projects/supertuxkart/
+
+* locked
+    By "Stephan" from pdsounds.org (license is public domain)

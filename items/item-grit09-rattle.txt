@@ -1,0 +1,5 @@
+Author: Sycopation
+License: Public Domain (CC0)
+Origin: https://freesound.org/people/Sycopation/sounds/276564/
+
+This is me playing an egg shaker. It will loop perfectly at 80 bpm or 160 bpm. Basic cleanup in Audacity (noise removal, low pass and high pass filters).

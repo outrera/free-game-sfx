@@ -1,0 +1,5 @@
+author: Rick Hoppmann 'TinyWorlds' (http://www.tinyworlds.org/)
+license: Public Domain (CC0)
+origin: https://opengameart.org/content/different-steps-on-wood-stone-leaves-gravel-and-mud
+
+The zip includes 8 different sounds, which can be for example used as steps in a RPG or platformer, or as building sounds in a Minecraft-like game.

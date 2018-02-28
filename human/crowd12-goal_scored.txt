@@ -1,0 +1,8 @@
+Author: jordiroquer
+License: CC-BY 3.0
+Origin: http://www.freesound.org/people/jordiroquer/sounds/148153/
+
+Taken from https://sourceforge.net/projects/supertuxkart/
+* goal_scored
+	Released under CC-BY 3.0
+	by jordiroquer (http://www.freesound.org/people/jordiroquer/sounds/148153/)

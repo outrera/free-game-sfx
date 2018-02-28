@@ -1,0 +1,8 @@
+author: Rick Hoppmann 'TinyWorlds' (http://www.tinyworlds.org/)
+license: Public Domain (CC0)
+origin: https://opengameart.org/content/explosion-0
+
+Explosion Sound created for Duckstruction
+Includes one satisfying retro explosion sound.
+
+You are a cute duckling destroying the city, because a rolling hamster killed your family.

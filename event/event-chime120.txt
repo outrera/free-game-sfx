@@ -1,0 +1,5 @@
+Author: Jonathan Wayman 'FacadeGaikan' (http://www.planetkillergames.net/)
+License: Public Domain (CC0)
+Origin: http://opengameart.org/content/residue-sfx
+
+The sounds fx from the game Residue. I created this game and wish to share these sounds with you. They are mostly gun and explosion sounds; there are also sunvox files if you want to edit the sounds.

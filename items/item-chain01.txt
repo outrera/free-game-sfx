@@ -1,0 +1,10 @@
+Author: David McKee 'ViRiX' <dmckee1009@gmail.com> (http://www.soundcloud.com/virix facebook.com/virixcore)
+License: CC-BY 3.0
+Origin: https://opengameart.org/content/ui-sound-effects-pack
+
+This is a collection of 11 user interface sounds I've created.
+
+Please let me know what you think!
+
+Attribution Instructions: 
+Please place this in the credits of your project "Some of the sounds in this project were created by David McKee (ViRiX) soundcloud.com/virix" Thank you.

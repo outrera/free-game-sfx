@@ -1,0 +1,20 @@
+Author: Wesnoth Team
+License: GPLv2+
+Origin: http://www.rtsoft.com/pages/dink.php
+        http://www.gnu.org/software/freedink/
+
+Taken from open source release of Dink Smallwood, which has Wesnoth sounds edited to match real-time nature of the game.
+
+- gold.wav
+
+  Single gold coin tossed with other gold coins.
+
+  Origin: wesnoth/data/core/sounds/gold.ogg
+  Author: ?
+  License: GPLv2+
+
+  Edited: the original sound was too long; using Audacity (gold.aup),
+  I truncated the sound and applied a fade_out to diminish the
+  truncation effect.
+  Copyright (C) 2008  Sylvain Beucler
+  License: GPLv2+

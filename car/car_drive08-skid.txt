@@ -1,0 +1,9 @@
+Author: Tom Haigh (http://www.freesound.org/people/audible-edge), Iwan 'qubodup' Gabovitch
+License: CC-BY-SA 3.0
+Origin: https://sourceforge.net/projects/supertuxkart/
+
+* skid 
+    Released under Creative Commons Attribution - Share Alike License 3.0
+    by Tom Haigh and Iwan 'qubodup' Gabovitch
+    http://www.freesound.org/people/audible-edge/sounds/71739/
+    http://opengameart.org/content/car-tire-squeal-skid-loop

@@ -1,0 +1,18 @@
+Author: Sylvain Beucler
+License: GPLv3+, Art Libre, CC-BY-SA
+Origin: http://www.rtsoft.com/pages/dink.php
+        http://www.gnu.org/software/freedink/
+
+Taken from open source release of Dink Smallwood.
+
+- high2.wav
+
+  Choir noise when you pickup a strength potion; sound when you're
+  given control when starting the game
+
+  Recreated with ZynAddSubFX, with instrument "Choir and Voice > Choir
+  Pad1", notes are g+2+7 on ZynAddSubFX, i.e FA# (bass) + DO# (bass) +
+  SIb (high), or F#+C#+Cb (US).
+
+  Copyright (C) 2009  Sylvain Beucler
+  License: GPLv3+ | Art Libre | CC-BY-SA

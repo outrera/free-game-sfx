@@ -1,0 +1,6 @@
+author: Rick Hoppmann 'TinyWorlds' (http://www.tinyworlds.org/)
+license: Public Domain (CC0)
+origin: https://opengameart.org/content/horror-loop
+
+A horror loop created for an unreleased prototype.
+The download includes the song as mp3.

@@ -1,0 +1,11 @@
+Author: Christoph Egger <debian@christoph-egger.org>
+License: CC-BY 3.0, GPL2, ZLib License
+Origin: http://www.freesound.org/people/swelk/sounds/12906/
+
+* parachute
+    based on Public Domain Sounds from either pdsounds or ghb_pd
+    Modifications (c) 2009 Christoph Egger <debian@christoph-egger.org>.
+    You may choose one of the following Licenses:
+     * ZLib License
+     * GNU GPL Version 2 or Later
+     * CreativeCommons BY 3.0

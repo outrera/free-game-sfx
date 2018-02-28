@@ -1,0 +1,7 @@
+author: Public Domain 
+license: Public Domain (CC0)
+origin: http://www.flashkit.com/soundfx/Mayhem/Knife_Sword/swords_c-Public_D-381/index.php
+
+A public domain sFX file, use it in your next flashkit project! 
+
+"If you download a freeware FX, you may use it in your presentations as you see fit. As a courtesy it's nice to thank the creator of the loop, and include a link to them."

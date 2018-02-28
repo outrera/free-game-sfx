@@ -1,0 +1,9 @@
+author: Rick Hoppmann 'TinyWorlds' (http://www.tinyworlds.org/)
+license: Public Domain (CC0)
+origin: https://opengameart.org/content/rage-mode
+
+Rage Mode Sound created for Duckstruction
+Includes the game ready sound file.
+
+You are a cute duckling destroying the city, because a rolling hamster killed your family.
+This art was uploaded with permission by the author Till Behrend.

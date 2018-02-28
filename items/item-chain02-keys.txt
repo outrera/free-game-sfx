@@ -1,0 +1,7 @@
+author: dslrguide
+license: Public Domain (CC0)
+origin: https://freesound.org/people/dslrguide/sounds/321483/
+
+Keys on a keychain being shaken, light jingling sound. Distance: 3ft from the microphone.
+
+Recorded with a Rode VideoMic Pro into a Zoom H5 recorder.

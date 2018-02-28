@@ -1,0 +1,5 @@
+Author: orpheusnz
+License: Public Domain (CC0)
+Origin: https://freesound.org/people/orpheusnz/sounds/330774/
+
+Weird sound using Camel Audio Alchemy's granulizer 

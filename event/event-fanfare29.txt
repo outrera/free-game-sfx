@@ -1,0 +1,7 @@
+Author: Dundersylt
+License: CC-BY-SA 3.0
+Origin: https://sourceforge.net/projects/supertuxkart/
+
+* last lap fanfare
+    by Dundersylt
+    released under CC-BY-SA 3.0+

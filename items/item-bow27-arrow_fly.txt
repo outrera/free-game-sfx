@@ -1,0 +1,8 @@
+author: Nikita Sadkov
+license: Public Domain (CC0)
+origin: https://github.com/saniv/free-game-sfx
+
+Arrow flight sound.
+
+Based of a public domain effect by spookymodem, which I just reversed and cut out that part.
+https://freesound.org/people/spookymodem/sounds/202107/

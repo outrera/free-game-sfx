@@ -1,0 +1,3 @@
+Author: Mike Koenig
+License: CC-BY 3.0
+Origin: https://sourceforge.net/projects/supertuxkart/

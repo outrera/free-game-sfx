@@ -1,0 +1,8 @@
+Author: Iwan 'qubodup' Gabovitch
+License: CC-BY-SA 3.
+Origin: https://sourceforge.net/projects/supertuxkart/
+
+
+* start_race
+    Released under CC-BY-SA 3.0 license
+    by Iwan 'qubodup' Gabovitch <http://opengameart.org/content/race-start-beeps>
