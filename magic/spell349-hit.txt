@@ -1,0 +1,6 @@
+Author: NoiseCollector
+License: CC-BY 3.0
+Origin: https://freesound.org/people/NoiseCollector/sounds/6722/
+        https://freesound.org/people/NoiseCollector/sounds/222921/
+
+I have combined two samples by NoiseCollector to produce this synthetic wall hit effect, trying to recreate HAMWAL1 sfx from Hexen. -- Nikita Sadkov

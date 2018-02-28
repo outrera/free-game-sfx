@@ -1,0 +1,18 @@
+Author: Wesnoth Team
+License: GPLv2+
+Origin: http://www.rtsoft.com/pages/dink.php
+        http://www.gnu.org/software/freedink/
+
+Taken from open source release of Dink Smallwood, which has Wesnoth sounds edited to match real-time nature of the game.
+
+- swing.wav
+
+  Dink hits the air with his fists.
+
+  Origin: wesnoth/data/core/sounds/dagger-swish.wav
+  Author: ?
+  License: GPLv2+
+
+  Edited: changed the speed
+  Copyright (C) 2012  Petteri Tolonen
+  License: GPLv2+

@@ -1,0 +1,7 @@
+author: Zapsplat (http://www.zapsplat.com)
+license: Public Domain (CC0)
+origin: http://www.flashkit.com/soundfx/Creatures/monster-150909060512.html
+
+Monster growl, could be ogre or yeti 
+
+"If you download a freeware FX, you may use it in your presentations as you see fit. As a courtesy it's nice to thank the creator of the loop, and include a link to them."

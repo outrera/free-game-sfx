@@ -1,0 +1,6 @@
+Author: Wesnoth Team
+License: GPL2
+Origin: https://forums.wesnoth.org/viewtopic.php?t=27744
+        http://sourceforge.net/projects/wesnoth-umc-dev/files/The%20Silver%20Lands/0.1.0
+
+This file was taken from The_Silver_Lands-0.1.0.tar.bz2

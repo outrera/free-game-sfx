@@ -1,0 +1,5 @@
+author: Felipe Arcazas 'Czarcazas' (https://freesound.org/people/Czarcazas/)
+license: CC-BY 3.0
+origin: https://freesound.org/people/Czarcazas/sounds/354090/
+
+Made with Xfer Records Serum, SonicCharge Synplant and Izotope Iris 2

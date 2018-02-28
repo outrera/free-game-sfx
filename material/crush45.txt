@@ -1,0 +1,9 @@
+Author: juskiddink, qubodup <qubodup@gmail.com>
+License: CC-BY-SA 3.0
+Origin: https://sourceforge.net/projects/supertuxkart/
+    
+* strike
+    based on http://www.freesound.org/samplesViewSingle.php?id=82359 (1 and 2) and
+    http://www.freesound.org/samplesViewSingle.php?id=82358 (3) by juskiddink.
+    Released under cc-by-sa 3.0 http://creativecommons.org/licenses/by-sa/3.0/ .
+    With modifications by qubodup <qubodup@gmail.com>

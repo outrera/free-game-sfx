@@ -1,0 +1,6 @@
+Author: legoluft
+License: Public Domain (CC0)
+Origin: https://sourceforge.net/projects/krank/
+        http://opengameart.org/content/atmospheric-interaction-sound-pack
+
+This is my edit, using change tempo and sliding pitch shift in Audacity, then white noise zap was added and edited in SpectraLayers Pro. -- Nikita Sadkov

@@ -1,0 +1,13 @@
+author: Brandon Morris (Augmentality)
+license: Public Domain (CC0)
+origin: https://opengameart.org/content/spell-sounds
+
+Sorry the files arent just one sound. Its the same sound done more than a couple times at different durations so you can choose how long you want the spell sound or how short.
+ 
+
+I posted in the preview in order of what I was going for
+1. Healing (3 times
+2. Teleport (3 times
+3. Electrical/Spell 2 diff types
+
+If you would like me to upload more spell sounds and have some in mind. PLease leave a comment telling me so I can do so.

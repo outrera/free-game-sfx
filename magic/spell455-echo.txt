@@ -1,0 +1,7 @@
+Author: Nikita Sadkov
+License: Public Domain (CC0)
+Origin: https://github.com/saniv/free-game-sfx
+
+
+Used public domain Sycopation's as raw material for this sfx:
+https://freesound.org/people/Sycopation/sounds/276564/

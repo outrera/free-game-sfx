@@ -1,0 +1,5 @@
+author: Rick Hoppmann 'TinyWorlds' (http://www.tinyworlds.org/)
+license: Public Domain (CC0)
+origin: https://opengameart.org/content/boiling-water-loops
+
+Cooking some pumpkin in a pot. Both sounds do loop.

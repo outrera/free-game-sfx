@@ -1,0 +1,9 @@
+author: Nikita Sadkov
+license: Public Domain (CC0)
+origin: https://github.com/saniv/free-game-sfx
+
+Attempt to creat sound similar to SHARDS1B from Hexen, using Audacity and SpectraLayers.
+
+Several public domain samples were used during production:
+https://opengameart.org/content/adding-salt
+https://freesound.org/people/pillonoise/sounds/126465/

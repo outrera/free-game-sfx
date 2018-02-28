@@ -1,0 +1,9 @@
+Author: Marianne Gagnon
+License: GPL2
+Origin: https://sourceforge.net/projects/supertuxkart/
+
+* shoot
+    Released under the GNU GPL v2 license
+    Based on sound effects from the Warmux and Battle for Wesnoth projects,
+    both released under the same license,
+    with modifications by Marianne Gagnon

@@ -1,0 +1,7 @@
+author: dslrguide
+license: Public Domain (CC0)
+origin: https://freesound.org/people/dslrguide/sounds/321480/
+
+Dragging a metal axe across a long, rusty piece of metal.
+
+Recorded with a Rode VideoMic Pro into a Zoom H5 recorder.

@@ -1,0 +1,17 @@
+Author: Iwan Gabovitch 'qubodup' (http://qubodup.net)
+License: CC-BY, GPL2, GPL3
+Origin: http://opengameart.org/content/slime-monster
+
+Monster sounds made with Lips of Suna ( http://lipsofsuna.org/wiki/audio-tasks ) in mind.
+
+Attack/damage based on http://www.freesound.org/people/qubodup/sounds/200279/ by myself.
+
+Idle recorded with Zoom H2 with computer fan in the background, but should be played back at low volume in games.
+
+FLAC, 5 files, mono, 48000Hz, 24bit(! - 16 might be required for most software to play this)
+
+2013-09-19 Update: OGG Vorbis (48000Hz) also included.
+
+
+Attribution Instructions: 
+Slime Monster by Iwan 'qubodup' Gabovitch http://opengameart.org/users/qubodup

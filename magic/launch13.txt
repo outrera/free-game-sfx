@@ -1,0 +1,6 @@
+Author: Super Tux Kart Contributors, Daniel Simion, BlastwaveFx
+License: CC-BY 3.0
+Origin: https://sourceforge.net/projects/supertuxkart/
+
+released under CC-BY 3.0
+Based on work by Daniel Simion and BlastwaveFx

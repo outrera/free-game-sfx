@@ -1,0 +1,13 @@
+author: Rick Hoppmann 'TinyWorlds' (http://www.tinyworlds.org/)
+license: Public Domain (CC0)
+origin: https://opengameart.org/content/5-hit-sounds-dying
+
+I'm not really satisfied with this, but maybe it still will come in handy for someone :)
+
+You can use this sounds for a variety of projects, from FPS, to Sidescroller, to RPG.
+The archive includes the sounds both as ogg and mp3.
+
+I uploaded the Audacity source files, in case you want to mess around with them.
+
+Copyright/Attribution Notice: 
+You don't need to attribute me. Feel free to check out my site with more free resources (e.g. generators and gameart experiments): http://tinyworlds.org/

@@ -1,0 +1,5 @@
+Author: aust_paul
+License: Public Domain (CC0)
+Origin: https://freesound.org/people/aust_paul/sounds/30936/
+
+Sounds like rain. Made from crumpling tin foil. Should loop seamlessly. Boosting some of the lower frequencies (around 80 - 100 Hz) should add some thunder for you.

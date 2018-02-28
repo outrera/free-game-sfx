@@ -1,0 +1,8 @@
+Author: Marianne Gagnon, blastwavefx.com, Natalie
+License: CC-BY-SA 3.0
+Origin: https://sourceforge.net/projects/supertuxkart/
+
+* splash
+    Based on 'Fish Splashing-SoundBible.com-250179430' sound bible, by blastwavefx.com, released under CC-BY-SA 3.0
+    and on 'Water vaporizing on hot Stones' by Natalie from pdsounds.org, released under public domain
+    Mix by Marianne Gagnon, released under CC-BY-SA 3.0

@@ -1,0 +1,9 @@
+Author: jameswrowles
+License: Public Domain (CC0)
+Origin: https://freesound.org/people/jameswrowles/sounds/207397/
+
+One of around eight effects created for a production of "A Tale of Two Cities"
+Recording of purpose built model guillotine chopping a mixture of veg.
+4 mics were used 1 from top, a couple at the bottom and an attached PZM.
+
+Result was pitch shifted down.

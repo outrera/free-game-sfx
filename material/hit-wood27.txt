@@ -1,0 +1,19 @@
+Author: Petteri Tolonen
+License: GPLv3+, Art Libre, CC-BY-SA
+Origin: http://www.rtsoft.com/pages/dink.php
+        http://www.gnu.org/software/freedink/
+
+Taken from open source release of Dink Smallwood.
+
+- bhit.wav
+
+  Origin: freeciv/data/stdsounds/woodbrk.ogg
+  Origin: http://openquartz.cvs.sourceforge.net/viewvc/openquartz/pak0/sound/ambience/woodbrk.wav
+  Origin: public domain'sounds by pOx http://www.planetquake.com/paroxysm 
+
+  Author: Frank Condello (pox@planetquake.com) (as per freeciv/data/stdsounds.soundspec)
+  License: public domain
+
+  Edited: shortened by cutting the rattle from the end
+  Copyright (C) 2012  Petteri Tolonen
+  License: GPLv3+ | Art Libre | CC-BY-SA

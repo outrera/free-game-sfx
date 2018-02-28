@@ -1,0 +1,6 @@
+author: Nikita Sadkov
+license: Public Domain (CC0)
+origin: https://github.com/saniv/free-game-sfx
+
+Modifiation of public domain gun sound effect by Sparklin Labs:
+https://opengameart.org/content/superpowers-assets-sound-effects

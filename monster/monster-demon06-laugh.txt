@@ -1,0 +1,6 @@
+author: ScorchX
+license: Public Domain (CC0)
+origin: http://www.flashkit.com/soundfx/Creatures/Lucifer_-ScorchX-8614/index.php
+
+
+Edited out of free sfx by ScorchX, to produce something more game ready. -- Nikita Sadkov

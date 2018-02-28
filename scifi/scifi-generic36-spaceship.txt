@@ -1,0 +1,8 @@
+Author: Ch0cchi
+License: CC-BY 3.0
+Origin: https://sourceforge.net/projects/supertuxkart/
+
+* spaceship
+    Based on work by Ch0cchi
+    http://www.freesound.org/people/Ch0cchi/sounds/15347/
+    Released under CC-BY 3.0

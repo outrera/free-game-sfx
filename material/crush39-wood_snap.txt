@@ -1,0 +1,6 @@
+Author: Nikita Sadkov
+License: Public Domain (CC0)
+Origin: https://github.com/saniv/free-game-sfx
+
+
+This was edited by me out of "snapping twig small wood piece" public domain sfx from  www.pdsounds.org

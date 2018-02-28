@@ -1,0 +1,8 @@
+Author: Richard Langridge
+License: GPL2
+Origin: https://sourceforge.net/projects/supertuxkart/
+        https://sourceforge.net/projects/trigger-rally/
+
+* engine_small
+    Released under GPL
+    by Richard Langridge, from the Trigger-Rally project

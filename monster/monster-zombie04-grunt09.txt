@@ -1,0 +1,7 @@
+author: Ben 'artisticdude'
+license: CC0 (Public Domain)
+origin: http://opengameart.org/content/rpg-sound-pack
+        http://opengameart.org/content/zombies-sound-pack
+        http://opengameart.org/content/goblins-sound-pack
+
+A compilation of all my sound effect work for the past couple months. While I created them specifically with RPGs in mind (such as Summoning Wars and FLARE, should either of those projects have a use for any of these), I'm sure there are much broader uses for at least a few of these. 95 files, all in the .wav format

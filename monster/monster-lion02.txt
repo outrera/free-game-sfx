@@ -1,0 +1,5 @@
+author: Nikita Sadkov
+license: Public Domain (CC0)
+origin: https://github.com/saniv/free-game-sfx
+
+Based on a public domain sound by AntumDeluge: https://opengameart.org/content/scrapes

@@ -1,0 +1,20 @@
+author: Nikita Sadkov
+license: Public Domain (CC0)
+origin: https://github.com/saniv/free-game-sfx
+
+Produced from scratch, trying to recreate CONE3.WAV from Hexen video game.
+
+Here is how to create sounds such as that one:
+
+1. Using SpectraLayers Pro 3.0.17, create 1.4 seconds long empty file.
+2. Use Noise Spray tool to hand-drawn spectrum shape, similar to the one in CONE3. Instead of white noise, you can load pre-made sample, that sounds promising, then apply exposure and erasure to it, so it will take shape looking like CONE3 or other sound you're trying to re-create.
+3. Save said file.
+4. Opened it in Audacity
+5. Apply envelope to achieve required volume shape.
+6. Apply Wahwah effect, using LFO Freq = 0.5, LFO Start Phase = 0.0, Depth=50%, Resonance=2.5, Wah Freq=30, Output Gain=-6.0
+7. Normalize
+8. Now copy result to separate track and apply Vocoder effect to it with following params: Vocoder, with distance=60, Number of bands=40, original audio=0, white noise=100, Radar needles=0, radar needles freq=0. That should produce more magical cold-sound texture.
+9. Mix result with vocoded copy, moved slightly to the right, producing magical sounding attack build-up.
+10. Optionally add Reverb, Delay and Chorus.
+
+Result should sound similar to Hexen one.

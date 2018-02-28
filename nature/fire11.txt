@@ -1,0 +1,14 @@
+author: qubodup
+license: Public Domain
+origin: https://freesound.org/people/qubodup/sounds/159725/
+        https://opengameart.org/content/catching-fire
+
+
+
+A mix of two sounds with different pitch flavors.
+
+http://upload.wikimedia.org/wikipedia/commons/7/7f/Wax_Fire_Anim.gif
+
+Sources (cc0 at time of mixing) see sidebar or:
+http://www.freesound.org/people/lollosound/sounds/124372/
+http://www.freesound.org/people/Cambra/sounds/102709/

@@ -1,0 +1,7 @@
+Author: jameswrowles, jergonda
+License: Public Domain (CC0)
+Origin: https://freesound.org/people/jameswrowles/sounds/274800/
+        https://freesound.org/people/jergonda/sounds/254735/
+
+Sound incorporating some home recorded thump and jergonda's great Hang Man's Rope sfx to signify the act of hanging with a trapdoor.
+Slightly improved version of hanging with louder levels and longer rope creak

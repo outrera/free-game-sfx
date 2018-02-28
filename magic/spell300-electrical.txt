@@ -1,0 +1,10 @@
+Author: Spiderweb Software
+License: GPL2
+Origin: http://www.spiderwebsoftware.com/blades/opensource.html
+
+"we have released the source code (along with all necessary support files, graphics files, sound effects, etc.) for the Windows and Macintosh versions of Blades of Exile to the world. Do what you want with it (within the sensible legal guidelines described in the license), and have fun."
+
+"The Blades of Exile source code is now covered by the GNU General Public License, Version 2."
+
+"Blades of Exile Game/Editor/Character Editor are released under the terms 
+of the GNU General Public License, Version 2."

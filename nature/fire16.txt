@@ -1,0 +1,21 @@
+Author: Sylvain Beucler
+License: CC-BY 3.0
+Origin: http://www.rtsoft.com/pages/dink.php
+        http://www.gnu.org/software/freedink/
+
+Taken from open source release of Dink Smallwood.
+
+- fire.wav
+
+  Fire burning in the background (chimney, torch)
+
+  Origin:
+  http://wiki.laptop.org/go/Sound_samples#Selections_from_The_Berklee_College_of_Music_Sampling_Archive_.281999-2007.29
+  http://www.archive.org/details/Berklee44v12 - file fire_long.wav
+  License: CC-BY 3.0
+
+  Edited to match the original length and frequency, and reworked
+  (bass/equilizer) to better match the original sound.  It was done
+  using Audacity, but given the manual processing, there was no real
+  source form and I trashed the temporary .aup project.
+  Copyright (C) 2008  Sylvain Beucler

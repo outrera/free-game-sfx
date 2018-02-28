@@ -1,0 +1,7 @@
+Author: Marianne Gagnon, Swelk
+License: CC-BY 3.0
+Origin: http://www.freesound.org/people/swelk/sounds/12906/
+
+* machine_sound
+    based on sound by Swelk, released under CC-BY 3.0, with modifications by Marianne Gagnon
+    http://www.freesound.org/people/swelk/sounds/12906/

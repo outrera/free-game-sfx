@@ -1,0 +1,7 @@
+Author: dADDoiT, Mike Koenig
+License: CC-BY 3.0
+Origin: https://sourceforge.net/projects/supertuxkart/
+
+* metal_clang
+    based on public domain sound by dADDoiT and CC-BY 3.0 sounds by Mike Koenig
+    released under CC-BY 3.0

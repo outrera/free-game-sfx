@@ -1,0 +1,20 @@
+Author: David McKee 'ViRiX' <dmckee1009@gmail.com> (http://www.soundcloud.com/virix facebook.com/virixcore)
+License: CC-BY 3.0
+Origin: http://opengameart.org/content/ui-and-item-sounds-sample-1
+
+These are a few sounds from my UI & Item Sound Effect Jingls which I've released in the Unity Asset Store.
+
+Feel free to use these as you will. 
+
+You can find the Asset Store link here.
+
+https://www.assetstore.unity3d.com/en/#!/content/30508
+
+There, you will find a collection of 30 bright musical sound effects. You'd normally find these in things like puzzle games and colorful platformers. 
+I've set them up so that there are ten main sound effects with multiple variations for each. so that you can mix and match them how you please.
+
+Thanks and enjoy. 
+
+ 
+Copyright/Attribution Notice: 
+In the credits, please place "Some of the sounds in this project were created by ViRiX Dreamcore (David McKee) soundcloud.com/virix"

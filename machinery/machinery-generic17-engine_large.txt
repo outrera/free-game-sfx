@@ -1,0 +1,9 @@
+Author: Marianne Gagnon, Stephan (pdsounds.org), Mike Koenig (soundbible.com), speedjunkie (soundbible.com)
+License: CC-BY-SA 3.0
+Origin: https://sourceforge.net/projects/supertuxkart/
+
+released under CC-BY-SA 3.0
+based on "Compressed Motor" by Stephan from pdsounds.org,
+"Transfer Truck idle and drive sound" by Mike koenig from soundbible.com, released under Attribution 3.0,
+"Car accelerating sound" by speedjunkiefrom soundbible.com released under Attribution 3.0,
+mixing and mash-up by Marianne Gagnon

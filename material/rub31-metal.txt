@@ -1,0 +1,7 @@
+author: dslrguide
+license: Public Domain (CC0)
+origin: https://freesound.org/people/dslrguide/sounds/321485/
+
+Scraping an axe across a thin sheet of textured industrial metal.
+
+Recorded with a Rode VideoMic Pro into a Zoom H5 recorder.

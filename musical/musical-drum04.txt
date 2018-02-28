@@ -1,0 +1,9 @@
+Author: NoiseCollector
+License: CC-BY 3.0
+Origin: https://freesound.org/people/NoiseCollector/sounds/222919/
+
+Mono samples of a small children's drum set recorded with 3 different "sticks". One is plastic with a blue rubber tip that came with a drum machine. One is a heavy green plastic stick from a previous toy drum. The third stick used is a thinner brown plastic one.
+
+Drum consists of a bass drum (recorded using the kick pedal and the other 3 sticks), 2 different sized "tom" drums, and a cheesy cymbal that uses rattling rivets for an interesting effect.
+
+Recorded with Olympus digital unit, inside and outside of each drum with various but minimal EQ and volume processing to make them usable. File names indicate the drum and stick used in each sample.

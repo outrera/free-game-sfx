@@ -1,0 +1,5 @@
+Author: CadereSounds
+License: CC-BY 3.0
+Origin: https://freesound.org/people/CadereSounds/sounds/259437/
+
+An experimental impact sound made in absynth 5 and alchemy.

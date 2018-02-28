@@ -1,0 +1,18 @@
+author: p0ss (https://opengameart.org/users/p0ss)
+license: CC-BY-SA 3.0, GPL2, GPL3
+origin: https://opengameart.org/content/interface-sounds-starter-pack
+
+This pack is intended to be a generic starter set for UI designers, it should fulfill most of the basic functions required by most interfaces.
+
+7 types of click
+3 types of snap
+cut sound
+drop sound
+dustbin sound
+message sound
+appear online sound
+
+These sounds were made in Linux MultiMedia Studio and Audacity on Ubuntu 10.10 
+
+As always, if you use these I'd love to hear about it!
+

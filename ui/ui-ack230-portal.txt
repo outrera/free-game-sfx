@@ -1,0 +1,7 @@
+Author: Arthur_D
+License: CC-BY-SA 3.0
+Origin: https://sourceforge.net/projects/supertuxkart/
+
+* portal
+    by Arthur_D
+    released under CC-BY-SA 3.0

@@ -1,0 +1,5 @@
+Author: NoiseCollector
+License: CC-BY 3.0
+Origin: https://freesound.org/people/NoiseCollector/sounds/6722/
+
+Explosion sound created at work with only the windows sound recorder and a virtual avalanche creation Java applet by overlapping and applying rudimentary effects. 

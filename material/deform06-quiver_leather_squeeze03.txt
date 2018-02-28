@@ -1,0 +1,14 @@
+Author: Jan Schupke 'Vehicle' (http://www.vehiclemusic.eu jan.schupke@gmail.com)
+License: Public Domain (https://creativecommons.org/publicdomain/zero/1.0/)
+Origin: http://opengameart.org/content/fantasy-sound-effects-tinysized-sfx
+        http://opengameart.org/content/fantasy-accessory-sfx-library
+        http://opengameart.org/content/fantasy-weapons-and-apparel-sfx-library
+
+All sounds are organic and unprocessed, apart from normalization.
+
+96 files, 44.1kHz, 16bit.
+
+More information and content at http://www.vehiclemusic.eu
+
+Copyright/Attribution Notice: 
+CC0. https://creativecommons.org/publicdomain/zero/1.0/

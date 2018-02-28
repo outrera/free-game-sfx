@@ -1,0 +1,8 @@
+Author: mieki256 (http://blawat2015.no-ip.com/~mieki256/ https://soundcloud.com/mieki256)
+License: Public Domain (CC0)
+Origin: https://opengameart.org/content/earthquake-and-open-sesame
+
+Earthquake and Open sesame. (open big door.)
+
+44100Hz, 16bit, stereo.
+

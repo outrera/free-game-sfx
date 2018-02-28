@@ -1,0 +1,14 @@
+Author: FreqMan
+License: CC-BY 3.0
+Origin: https://freesound.org/people/FreqMan/sounds/32563/
+
+Sounds a bit like 2001? Yes, but this uses sound from here and only here (freesound). I mixed this together with Sony Vegas - Using the sounds from the "freesound" audio session on August 30th 2006 - "La audiencia disponible"
+
+Namely:
+25297_freesound_Mantra_Umm_ses2.wav __3x __
+25290_freesound_Wind_ses1.wav __1x__
+25280_freesound_Zombies_ses1.wav __1x__
+25267_freesound_Highs_Lows-ses1.wav __10x__
+
+and also one of my own:
+25076_FreqMan_whoosh07.wav __1x__

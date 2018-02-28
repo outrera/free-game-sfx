@@ -1,0 +1,7 @@
+author: dslrguide
+license: Public Domain (CC0)
+origin: https://freesound.org/people/dslrguide/sounds/321478/
+
+A metal axe striking a piece of brick, sending shards of debris across the dirt. High pitched 'tink" sound.
+
+Recorded with a Rode VideoMic Pro into a Zoom H5 recorder.

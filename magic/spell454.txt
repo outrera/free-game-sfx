@@ -1,0 +1,6 @@
+Author: Nikita Sadkov
+License: Public Domain (CC0)
+Origin: https://github.com/saniv/free-game-sfx
+
+Generated in LabChirp, then processed with Audacity.
+

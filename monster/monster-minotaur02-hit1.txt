@@ -1,0 +1,7 @@
+Author: Wesnoth Team
+License: GPL2
+Origin: https://www.wesnoth.org/
+        https://github.com/wesnoth/wesnoth
+        https://sourceforge.net/projects/wesnoth-umc-dev/
+
+These files were taken from wesnoth-1.13.11.tar.bz2 - Under_the_Burning_Suns campaign (tauroch-hit sound).

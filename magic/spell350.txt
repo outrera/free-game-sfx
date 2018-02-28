@@ -1,0 +1,5 @@
+Author: NoiseCollector
+License: CC-BY 3.0
+Origin: https://freesound.org/people/NoiseCollector/sounds/4084/
+
+Sound from phone sample pack vocoded with Analogx using ufomonoA4 as the carrier. Delay added with Cool Edit. 3D Echo chamber effect added.

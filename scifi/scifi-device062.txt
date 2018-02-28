@@ -1,0 +1,9 @@
+Author: FreqMan
+License: CC-BY 3.0
+Origin: https://freesound.org/people/FreqMan/sounds/32562/
+
+"zeezack" requested a teleportation sound that resembled the Chronosphere from an old strategy game. Mostly using sounds I had on hand - this is pretty close. I could have gotten closer if I used some of my sound effects libraries - but I didn't. The only sound that wasn't mine was:
+
+"plascanh.wav" by inferno
+(http://freesound.iua.upf.edu/samplesViewSingle.php?id=18390)
+

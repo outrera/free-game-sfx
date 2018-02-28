@@ -1,0 +1,5 @@
+author: Jose Ortiz 'MindChamber'
+license: CC0 (Public Domain)
+origin: http://opengameart.org/content/pink-knight-assets
+
+Two effects by Jose Ortiz mixed together.

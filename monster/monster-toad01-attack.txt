@@ -1,0 +1,7 @@
+Author: Wesnoth Team
+License: GPL2
+Origin: https://www.wesnoth.org/
+        https://github.com/wesnoth/wesnoth
+        https://sourceforge.net/projects/wesnoth-umc-dev/
+
+Taken from Ageless Era addon v 4.17.0

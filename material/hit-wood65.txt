@@ -1,0 +1,7 @@
+Author: Marianne Gagnon, pdsounds.org
+License: Public Domain (CC0)
+Origin: https://sourceforge.net/projects/supertuxkart/
+
+* Wooden bridge
+    from pdsounds.org, edited by Marianne Gagnon
+    released under public domain.

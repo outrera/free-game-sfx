@@ -1,0 +1,7 @@
+Author: Marianne Gagnon, Mike Koenig
+License: CC-BY-SA 3.0
+Origin: https://sourceforge.net/projects/supertuxkart/
+
+    Based on work by Mike Koenig (http://soundbible.com/845-Suction.html)
+    With modifications by Marianne Gagnon
+    Released under CC-BY-SA 3.0

@@ -1,0 +1,8 @@
+Author: Mike Koenig, Marianne Gagnon
+License: CC-BY 3.0
+Origin: https://sourceforge.net/projects/supertuxkart/
+
+* thunder
+    based on "Lightning Strike Summer Storm Sound" by Mike koenig  from soundbible
+    with modifications by Marianne Gagnon
+    released under CC-BY 3.0

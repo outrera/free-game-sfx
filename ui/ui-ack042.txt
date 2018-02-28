@@ -1,0 +1,20 @@
+author: Brandon Morris 'Augmentality' (Brandonmorris12@gmail.com http://youtube.com/brandon75689)
+license: Public Domain (CC0)
+origin: https://opengameart.org/content/card-game-sounds
+
+sounds I made for the game "Cockatrice"
+
+Sounds In order of preview
+Game Start
+Draw Card
+Error
+Hover over Or interface click
+Notification (pass turn)
+PLay card
+Shuffle
+Stage Change
+Tap
+Untap 
+
+ 
+There is also a Dice roll in there as well. 

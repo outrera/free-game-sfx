@@ -1,0 +1,7 @@
+Author: qubodup (qubodup.net), Halleck (http://www.freesound.org/people/Halleck/)
+License: CC-BY-SA 3.0
+Origin: https://sourceforge.net/projects/supertuxkart/
+
+released under CC-BY-SA 3.0
+layered and mixed by qubodup <qubodup.net>
+recorded by Halleck <http://www.freesound.org/people/Halleck/>

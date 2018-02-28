@@ -1,0 +1,5 @@
+author: Ogrebane
+license: CC-BY 3.0, CC-BY-SA 3.0, GPL2, GPL3
+origin: https://opengameart.org/content/guttural-vocals
+
+Some guttural vocals in the .wav format for a monster of some kind, like an ogre, a troll, or hogzilla. There are 3 hit sounds, 2 die sounds, and a belch sound thrown in for good measure. ;) Enjoy! -artistic

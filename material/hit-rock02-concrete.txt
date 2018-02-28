@@ -1,0 +1,7 @@
+author: dslrguide
+license: Public Domain (CC0)
+origin: https://freesound.org/people/dslrguide/sounds/321477/
+
+A metal axe lightly hitting a stone / concrete paving slab.
+
+Recorded with a Rode VideoMic Pro into a Zoom H5 recorder.
