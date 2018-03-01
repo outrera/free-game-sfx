@@ -1,0 +1,5 @@
+author: Jute (http://dungeonhack.sourceforge.net/forums/memberlist.php?mode=viewprofile&u=1857)
+license: GPL2, GPL3
+origin: https://opengameart.org/content/zombie-spider-and-monster
+
+These sounds were made by Jute for DungeonHack (http://dungeonhack.sourceforge.net/). They are based on sounds from pdsounds.org.
