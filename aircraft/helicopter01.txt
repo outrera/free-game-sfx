@@ -1,0 +1,5 @@
+Author: Nikita Sadkov 
+License: Public Domain (CC0)
+Origin: https://github.com/saniv/free-game-sfx
+
+Edited by mixing and filtering public domain 8bit helicopter sfxes by Juhani Junkala (http://opengameart.org/content/512-sound-effects-8-bit-style)

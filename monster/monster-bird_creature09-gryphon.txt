@@ -1,0 +1,5 @@
+author: David Slimp, Nikita Sadkov
+license: GPL2
+origin: http://www.nongnu.org/aleona/
+
+This is my edit of Aleona Tales file -- Nikita Sadkov
