@@ -1,0 +1,7 @@
+Author: neonaeon
+License: CC-BY 3.0
+Origin: https://freesound.org/people/neonaeon/sounds/49477/
+
+This is just a short fanfare used to announce a king in a short play.
+
+The is a recording I made for a fund raiser i am taking part in. I recorded this trombone with a Zoom h4 and an AKG c3000 microphone at 48k/24bit. After editing i encoded them at 44.1k/16bit and then encoded to FLAC for the website.
