@@ -1,0 +1,16 @@
+Author: CGEffex, hello_flower, volivieri, acclivity, dobroide
+License: CC-BY 3.0
+Origin: https://freesound.org/people/CGEffex/sounds/93678/
+
+Listen through random freesound samples, I came across hello_flower's 'SHIP SOUND REQUEST' Although it is a pretty good sample, I saw several problems:1. It wasn't great quality2. It didn't have stereo effects3. It was quite short (only 10 seconds of actual audio)Despite this, it was a great sample and I knew I could fix it up a bit. Using volivieri's shore03.aiff, acclivity's ShipsBell.wav, dobroide's 20080807.seagulls.wav, and hello_flowers original ship sample, I created this. A higher quality, longer, and fully loopable remix using only a few components of the original. Enjoy, comment and rate!
+
+Samples used:
+https://freesound.org/people/volivieri/sounds/37148/
+https://freesound.org/people/acclivity/sounds/32304/
+https://freesound.org/people/dobroide/sounds/59492/
+https://freesound.org/people/hello_flowers/sounds/31006/
+
+volivieri, dobroide and hello_flowers samples are CC-BY, but acclivity's sound is now licensed under CC-BY-NC, while earler it was licensed under Creative Commons Sampling Plus 1.0 License:
+http://web.archive.org/web/20090525014347/http://www.freesound.org:80/samplesViewSingle.php?id=32304
+
+So it is okay to use it, as long as you credit him.

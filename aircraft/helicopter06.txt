@@ -1,0 +1,6 @@
+Author: lorenzosu, Nikita Sadkov
+License: CC-BY 3.0
+Origin: http://web.archive.org/web/20081009065721/http://www.freesound.org:80/samplesViewSingle.php?id=49481
+
+Based of a sample by lorenzosu, which was distributed under the sampling+
+Sampling Plus 1.0 https://creativecommons.org/licenses/sampling+/1.0/
