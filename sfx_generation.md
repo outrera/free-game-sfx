@@ -1,6 +1,6 @@
 If you have some effect that you want to make loopable, then cut it in the middle, swap two resulting samples and crossfade them.
 
-Typical of producing unusual sounds is mixing several pitch-shifted versions of the same sample. That way you can get robotic or monster sounding voice out of human one.
+Typical of producing unusual sounds is mixing several pitch-shifted versions of the same sample. That way you can get robotic or monster sounding voice out of human one. For example, to produce satanic sounding voice, record normally, then reverse and pitch-shift down by 50%
 
 Audacity's "Effect -> Sliding Time Scale/Pitch Shift" produces awesome effects from existing audio files.
 
