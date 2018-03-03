@@ -1,0 +1,12 @@
+author: Iwan Gabovitch 'qubodup'
+license: CC-BY 3.0
+origin: https://freesound.org/people/qubodup/sounds/184600/
+
+Just coughing in the mic and setting rate to half.
+
+Recorded with Zoom H2. Edited with Audacity.
+
+This is not a public domain sound! This sound requires attribution! If you want to use this sound but can not give attribution, please contact me.
+
+You are required to give attribution in the form of:
+"Monster Cough.flac" Copyright 2013 Iwan Gabovitch, CC-BY3 license.
