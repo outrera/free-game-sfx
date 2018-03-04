@@ -3,4 +3,4 @@ License: Public Domain (CC0)
 Origin: https://github.com/saniv/free-game-sfx
 
 
-Produced using bfxr
+Produced using bfxr, then filtered lower frequencies.

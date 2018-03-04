@@ -1,4 +1,4 @@
-LabChirp, sfxr/bfxr and Musagi are nice programs for sythesizing sound effects out of several channels with sine waves, white noise and envelopes over them. Photosounder can be used to turn any image into sound effect, taking it as spectral moulding shape. SpectraLayers Pro has similar spectral moulding cpabilities, and also allows drawing spectrum, like an image in Photoshop.
+LabChirp, sfxr/bfxr and Musagi are nice programs for sythesizing sound effects out of several channels with sine waves, white noise and envelopes over them. Photosounder can be used to turn any image into sound effect, taking it as spectral moulding shape. SpectraLayers Pro has similar spectral moulding cpabilities, and also allows drawing spectrum, like an image in Photoshop. For example bfxr can be used to generate authentic sounding electric sparks out of white noise.
 
 If you have some effect that you want to make loopable, then cut it in the middle, swap two resulting samples and crossfade them.
 
