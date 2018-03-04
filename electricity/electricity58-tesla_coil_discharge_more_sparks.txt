@@ -6,4 +6,4 @@ A tesla coil discharge sfx based of samples by
 - bmusic92: https://freesound.org/people/bmusic92/sounds/232912/
 - SomeSine: https://freesound.org/people/SomeSine/sounds/404338/
 
-A lot of effects were applied, such as delay and flanger, vocoder freq cuts, as well as some additional sparks generated with bfxr.
+A lot of effects were applied, such as delay and flanger, as well as some additional sparks generated with bfxr.

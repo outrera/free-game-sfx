@@ -1,0 +1,5 @@
+Author: Nikita Sadkov
+License: Public Domain (CC0)
+Origin: https://github.com/saniv/free-game-sfx
+
+produced out of public domain samples, vocoded and frequence filtered.
