@@ -1,0 +1,5 @@
+Author: Johan Brodd 'jobro'
+License: CC-BY 3.0
+Origin: https://freesound.org/people/jobro/sounds/39218/
+
+A sound of boiling water with a lot of bubbles in it. It all comes from one bubbling sound, and it is properly processed by Atomic Cloud, a granular synthesis program that played the sound with quite long grains and not so fast attack on 'em to make the bubbles melt together in a nice fine texture.

@@ -1,0 +1,5 @@
+Author: Johan Brodd 'jobro'
+License: CC-BY 3.0
+Origin: https://freesound.org/people/jobro/sounds/204303/
+
+A sound when something is being processed magically.

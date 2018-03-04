@@ -1,4 +1,4 @@
-Author: Dungeon Craft Team
+Author: Adam Goh / Dungeon Craft Team
 License: GPL2
 Origin: http://uaf.sourceforge.net/
 

@@ -13,3 +13,6 @@ That will produce scifi robotic sounding effects.
 
 Distance=60, Bands=40, Original audio=0, White noise=100, Radar needles=0, Radar needles (Hz)=80
 That will produce more magical sound effects
+
+
+Fat electrical discharge/tesla-coil sounds could be produced using basic electric sounds (like welding and jacob ladders) with some delay processing and flanger.

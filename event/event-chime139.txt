@@ -1,0 +1,5 @@
+Author: Johan Brodd 'jobro'
+License: Public Domain (CC0)
+Origin: https://freesound.org/people/jobro/sounds/198808/
+
+Something happens in a game, and a bit of magic is released. Could be a question is resolved, or a powerup is picked up.

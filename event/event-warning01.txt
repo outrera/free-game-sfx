@@ -1,0 +1,5 @@
+Author: Johan Brodd 'jobro'
+License: Public Domain (CC0)
+Origin: https://freesound.org/people/jobro/sounds/263652/
+
+A recreation of the typical MGS detected lead.

@@ -1,0 +1,5 @@
+Author: Johan Brodd 'jobro'
+License: Public Domain (CC0)
+Origin: https://freesound.org/people/jobro/sounds/245154/
+
+This is the main loop when the firing the laser on any ship. The constant stream of death and destruction is just going on and going on. This sound can be used for firing off just a small laser shot as well.
