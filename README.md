@@ -8,7 +8,7 @@ Feedback is accepted at snv985@gmail.com
 Due to claims of anumal abuse after sounds like animal-wolf10-die1.ogg and animal-wolf10-hit.ogg (which were taken from Wesnoth), github.com blocked this repository and agreed to unblock it only if all animal sounds get deleted. If you want any animal sounds at github - go ask PETA and other animal rights defenders, because they believe that animals and their sounds are not your property, and github listens to them. Anyway, we now have solid proof that Battle for Wesnoth developers are animal abusers!
 
 For now these sounds are at other file hosting:
-https://nofile.io/f/6s2fdtnYYzb/free-game-sfx-animal.zip
+https://nofile.io/f/tBW7Te2G4jq/free-game-sfx-animal.zip
 
 check animal-lion07-roar.flac there, the poor lion got abused by evil antelope which ran away!
 
