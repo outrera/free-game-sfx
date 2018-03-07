@@ -1,0 +1,5 @@
+Author: themfish
+License: CC-BY 3.0
+Origin: https://freesound.org/people/themfish/sounds/34205/
+
+Intense static power-down, created by modulating a high-pitch beep and a grungy bass layer, combined with some good old-fashioned TV static. I made this for a video in which the "TV image" turns off abruptly.

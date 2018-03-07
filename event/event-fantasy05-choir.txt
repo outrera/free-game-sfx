@@ -1,6 +1,6 @@
-Author: Nikita Sadkov, bone666138
-License: CC-BY-SA
+Author: Nikita Sadkov
+License: Public Domain (CC0)
 Origin: https://github.com/saniv/free-game-sfx
 
-based of a public domain choir by bone666138:
+Based of a public domain choir by bone666138. That heart beat drum was produced accidentally while applying effects in Audacity.
 https://freesound.org/people/bone666138/sounds/274121/

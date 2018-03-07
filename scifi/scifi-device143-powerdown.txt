@@ -1,0 +1,5 @@
+Author: themfish
+License: CC-BY 3.0
+Origin: https://freesound.org/people/themfish/sounds/34203/
+
+Pitch-bending a composite of string samples to emulate the sound of some high-speed machine powering down. I was playing around with the speed/pitch shift on my friend's Protools setup and he showed me how to gradually bend the speed of a sample. So I layered a bunch of strings and went to town.
