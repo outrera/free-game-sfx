@@ -1,0 +1,7 @@
+Author: klemmy
+License: CC-BY 3.0
+Origin: https://freesound.org/people/klemmy/sounds/203659/
+
+"used coldfire distortion for the distort, FL7XXL used as a VST host. made this for a pile of samples i've given out for projects and nothing has come out of them, so i'm giving it out to everyone and anyone now. 100 BPM." --klemmy
+
+"I've extended the electrical sound part to produce zappy scifi blaster sfx" --Nikita Sadkov
