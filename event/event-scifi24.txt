@@ -1,0 +1,5 @@
+Author: sepal
+License: CC-BY 3.0
+Origin: https://freesound.org/people/sepal/sounds/117899/
+
+Simple short synth sound with with many heights.
