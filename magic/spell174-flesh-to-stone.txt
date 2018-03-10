@@ -1,5 +1,5 @@
 Author: Nikita Sadkov
-License: CC-BY-SA
+License: Public Domain (CC0)
 Origin: https://github.com/saniv/free-game-sfx
 
 Produced using Audacity.
