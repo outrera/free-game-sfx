@@ -1,0 +1,7 @@
+Author: Nikita Sadkov
+License: Public Domain (CC0)
+Origin: https://opengameart.org/content/crossbow-sounds
+
+Sounds of a Barnett pistol crossbow shooting both blank and with a bolt hitting a target.
+
+The sounds of a bigger crossbow can be easily simulated by slowing down the sounds in audacity. Bigger / stronger crossbows sound similar but with deeper frequencies.
