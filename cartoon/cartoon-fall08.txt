@@ -1,0 +1,16 @@
+Author: Jonathan Shaw 'InspectorJ'
+License: CC-BY 3.0
+Origin: https://freesound.org/people/InspectorJ/sounds/360662/
+
+Audio of a descending square wave constructed using the Massive synthesizer.
+
+If any of these sounds have been of help, and you are feeling charitable, please do consider donating to Freesound to help keep the site running (a link is also on the home page). Any donations are greatly appreciated! And for more awesome sounds, do please check out my sound libraries.
+
+Please comment on where you intend to use the sound, and feel free to post a link to the work where you used it if you want (I enjoy watching/listening to anything you create!)
+
+You don't have to worry about crediting this sound if you are using it for non-commercial projects unless you want to (e.g. educational or non-profit activities), but if you use the sound for a commercial project you must credit the sound. If you would prefer to not have to give attribution for commercial projects, then take a look at the attribution-free license.
+
+An example of how you might credit is by putting this in the description/credits:
+"Falling, Comedic, A.wav" by InspectorJ of Freesound.org
+
+Originally created on 22nd September 2016 using the "Massive" synthesizer and Cubase.

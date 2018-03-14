@@ -1,0 +1,18 @@
+Author: Jonathan Shaw 'InspectorJ'
+License: CC-BY 3.0
+Origin: https://freesound.org/people/InspectorJ/sounds/411729/
+
+I loaded one of my wind chime samples into Kontakt, played a simple low major chord and added a ton of reverberation to create this bell-like tolling which works surprisingly effectively.
+
+If any of these sounds have been of help, and you are feeling charitable, please do consider donating to Freesound to help keep the site running (a link is also on the home page). Any donations are greatly appreciated! And for more awesome sounds, do please check out my sound libraries.
+
+Please comment on where you intend to use the sound, and feel free to post a link to the work where you used it if you want (I enjoy watching/listening to anything you create!)
+
+You don't have to worry about crediting this sound if you are using it for non-commercial projects unless you want to (e.g. educational or non-profit activities), but if you use the sound for a commercial project you must credit the sound. If you would prefer to not have to give attribution for commercial projects, then take a look at the attribution-free license.
+
+An example of how you might credit is by putting this in the description/credits:
+"Wind Chime, Tolling, A.wav" by InspectorJ of Freesound.org
+
+Originally edited using "Kontakt" and "Cubase" Software on 16th November 2017.
+
+Note: Audio quality is always better when downloaded.
