@@ -1,0 +1,5 @@
+Author: Joseph 'spookymodem'
+License: CC-BY 3.0
+Origin: https://opengameart.org/content/inventory-bag
+
+Rummaging through your inventory bag.

@@ -1,0 +1,5 @@
+Author: Joseph 'spookymodem'
+License: CC-BY 3.0
+Origin: https://opengameart.org/content/torch-fire-spell
+
+Waving a torch at your enemies or using a fire spell.

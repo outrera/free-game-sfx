@@ -1,0 +1,5 @@
+Author: Écrivain (http://queatz.org/scge/)
+License: Public Domain (CC0)
+Origin: https://opengameart.org/content/random-sfx
+
+Some random sound effects.
