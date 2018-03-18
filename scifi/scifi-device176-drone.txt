@@ -1,0 +1,14 @@
+Author: Jason Dagenet 'jdagenet'
+License: CC-BY 3.0
+Origin: https://opengameart.org/content/sci-fi-drone-loop
+
+A low, sci-fi drone that I created out of a basic sine wave mixed with various real-time affects.
+
+Best for use as an alien space ship texture or a powerful computer hum.
+
+This sound loops seamlessly when played as a loop.
+
+Enjoy!
+
+Copyright/Attribution Notice: 
+Please credit me as jdagenet or Jason Dagenet.

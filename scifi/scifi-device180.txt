@@ -1,0 +1,35 @@
+Author: Jason Dagenet 'jdagenet'
+License: CC-BY 3.0
+Origin: https://opengameart.org/content/vintage-scifi-sfx-vol-1
+
+SFX suitable for vintage Sci Fi stuff.
+
+All based on frequency modulation.
+
+The package includes the following files:
+
+    activate_1.wav
+    alarm_1.wav
+    complain_1.wav
+    creature_1.wav
+    creature_2.wav
+    creature_3.wav
+    creature_4.wav
+    danger.wav
+    demonic_1.wav
+    flight_1.wav
+    flight_maneuver_1.wav
+    flight_maneuver_2.wav (forgot to put this one in the preview file, but it is in the pack)
+    health_1.wav
+    laser_gun_1.wav
+    laser_gun_2.wav
+    magnetic_field_1.wav
+    magnetic_field_2.wav
+    magnetic_field_3.wav
+    magnetic_field_4.wav
+    wind_1.wav
+
+The file sprite.wav contains all the sounds concatenated together for convenience.
+
+Cheers.
+
