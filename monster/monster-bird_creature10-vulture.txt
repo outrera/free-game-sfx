@@ -1,0 +1,18 @@
+author: Jordan Irwin 'AntumDeluge'
+license: Public Domain (CC0)
+origin: https://opengameart.org/content/vulture-imitation
+
+A modified human imitation of a vulture.
+
+Details:
+
+    Format: Vorbis
+        Container: OGG
+        Bit rate: 46k
+        Sample rate: 44100Hz
+        Channels: 1
+    Format: PCM/WAV (uncompressed)
+
+Licensing: Creative Commons Zero (CC0)
+
+Permanent link: https://opengameart.org/node/16329

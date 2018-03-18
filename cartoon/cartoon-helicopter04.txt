@@ -1,0 +1,5 @@
+Author: aquinn (http://www.zoytek.co.uk)
+License: Public Domain (CC0)
+Origin: https://opengameart.org/content/helicopter-sounds
+
+A collection of helicopter sounds.

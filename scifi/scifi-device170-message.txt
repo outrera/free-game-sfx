@@ -1,0 +1,13 @@
+Author: messersm (http://sourceforge.net/projects/rte-game/)
+License: Public Domain (CC0)
+Origin: https://opengameart.org/content/space-sound-effects
+
+Here are some sound effects I created for a space game. They're created with Bfxr and I've added the Bfxr-spec for each file, so you (and I) can tweak them.
+
+Contents:
+ - 6 Laser Sounds
+ - 6 Explosions
+ - 1 Warpout Sound
+ - 1 Notification / Message Sound
+
+Bfxr: http://www.bfxr.net/

@@ -1,0 +1,12 @@
+Author: Paolo D'Emilio 'copyc4t' (http://opengameart.org/users/copyc4t), Anton, qubodup, Benboncan
+License: CC-BY 3.0
+Origin: https://opengameart.org/content/archers-shooting
+
+A small line of archers shooting together, obtained mixing multiple excerpts from these sounds
+
+http://www.freesound.org/people/Anton/sounds/54/ by Anton, CC-BY
+http://www.freesound.org/people/qubodup/sounds/60030/ by qubodup, CC0
+http://www.freesound.org/people/Benboncan/sounds/85019/ by Benboncan, CC-BY
+
+Attribution Instructions: 
+Not being the only copyc4t around (nomen, omen!) please write it all lowercase and add either my real name (Paolo D'Emilio) or specify "from OpenGameArt", "from Freesound", or "from SoundCloud". Even better by linking any of those profiles directly: http://opengameart.org/users/copyc4t http://www.freesound.org/people/copyc4t/ https://soundcloud.com/copyc4t

@@ -1,0 +1,5 @@
+Author: Arthur
+License: CC-BY-SA 3.0, GPL2, GPL3
+Origin: https://opengameart.org/content/3-2-1-go
+
+A small rally-like countdown.

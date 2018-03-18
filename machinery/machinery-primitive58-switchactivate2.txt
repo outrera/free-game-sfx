@@ -1,4 +1,4 @@
-author: Various
+author: dusted
 license: GPL3
 origin: https://github.com/DusteDdk/Wizznic
         http://sourceforge.net/projects/wizznic/

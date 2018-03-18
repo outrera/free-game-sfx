@@ -1,0 +1,5 @@
+Author: Arthur
+License: CC-BY-SA 3.0, GPL2, GPL3
+Origin: https://opengameart.org/content/warp-sound-1
+
+A kind of warp sound, that might be useful as a sound effect for a sci-fi game.

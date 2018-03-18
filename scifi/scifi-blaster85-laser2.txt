@@ -1,0 +1,12 @@
+Author: Kristjan Jonasson 'Triki Minut' (http://www.trikiminut.com/)
+License: CC-BY 3.0, CC-BY-SA 3.0
+Origin: https://opengameart.org/content/sci-fi-laser-fire-sfx
+
+Sound Effect that has been used in the prototype of the 2.5D isometric space game: Space Pioneer (www.trikiminut.com)
+
+This was used only for the prototype, and will not be used in the final game.
+
+.OGG in a .7z
+
+Copyright/Attribution Notice: 
+K.L.Jonasson, Winnipeg, Canada. Triki Minut Interactive www.trikiminut.com 

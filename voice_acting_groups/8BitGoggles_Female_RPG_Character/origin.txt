@@ -1,0 +1,8 @@
+Author: 8BitGoggles
+License: CC-BY 3.0
+Origin: https://opengameart.org/content/female-rpg-character-voice-pack
+
+General voice clips, mostly of a fantasy RPG alignment. Could be used for other things.
+
+Posted in .ogg for easy importing to RPGMaker.
+

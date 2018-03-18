@@ -1,0 +1,7 @@
+Author: Gobusto
+License: CC-BY-SA 3.0
+Origin: https://opengameart.org/content/button-press
+
+A computer-ish button noise. The OpenGameArt preview doesn't sound right, so you'll need to download the WAV file.
+
+More sound effects here: https://sites.google.com/site/gobusto/stuff

@@ -1,0 +1,5 @@
+Author: messersm (http://sourceforge.net/projects/rte-game/)
+License: Public Domain (CC0)
+Origin: https://opengameart.org/content/space-sound-effects
+
+created by mixing several sfx by messersm

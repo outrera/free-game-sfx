@@ -1,0 +1,7 @@
+Author: Iwan Gabovitch 'qubodup' (http://qubodup.net)
+License: Public Domain (CC0)
+Origin: https://opengameart.org/content/beep-tone-sound-sfx
+
+Beep
+
+Failed attempt at creating a better batter pick-up sound for Nikki: http://joyridelabs.de/blog/

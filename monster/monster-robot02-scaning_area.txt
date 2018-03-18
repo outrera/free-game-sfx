@@ -1,0 +1,7 @@
+Author: Gobusto
+License: CC-BY-SA 3.0
+Origin: https://opengameart.org/content/robot-scanning-area
+
+I created this for use in my current game project, as a way to tell the player that there is a robotic turret nearby.
+
+More sound effects here: https://sites.google.com/site/gobusto/stuff

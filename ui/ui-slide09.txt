@@ -1,0 +1,7 @@
+Author: Arthur
+License: CC-BY-SA 3.0, GPL2, GPL3
+Origin: https://opengameart.org/content/windy-sound-2
+
+A kind of wind sound, that might be useful as a sound effect for a sci-fi game.
+
+Alternatively, it can be used as the beginning of a longer sound effect.

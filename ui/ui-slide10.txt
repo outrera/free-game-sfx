@@ -1,0 +1,7 @@
+Author: Arthur
+License: CC-BY-SA 3.0, GPL2, GPL3
+Origin: https://opengameart.org/content/sci-fi-shwop-1
+
+A sound that might be useful as a sound effect for a sci-fi game.
+
+Not sure about how I should describe it, but it's a short sound with flanger.

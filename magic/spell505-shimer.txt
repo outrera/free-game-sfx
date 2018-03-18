@@ -1,0 +1,5 @@
+Author: Micah Talkiewicz
+License: CC-BY 3.0, CC-BY-SA 3.0, GPL2, GPL3
+Origin: https://opengameart.org/content/shimer-01
+
+A looping mystic sound, used for mystic stuff.
