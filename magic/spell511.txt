@@ -1,0 +1,5 @@
+Author: Nikita Sadkov
+License: Public Domain (CC0)
+Origin: https://github.com/saniv/free-game-sfx
+
+This one was produced by applying delay effect to public domain sfx by wobbleboxx.com from https://opengameart.org/content/level-up-power-up-coin-get-13-sounds

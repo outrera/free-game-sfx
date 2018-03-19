@@ -1,0 +1,5 @@
+Author: sauer2
+License: Public Domain (CC0)
+Origin: https://opengameart.org/content/alien-sounds
+
+Made with audacity. The multitone generator was usd for some of them, also the Pitch/Timeshifter.

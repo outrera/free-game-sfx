@@ -1,0 +1,8 @@
+Author: Roppy Chop Studios (http://www.roppychop.com/)
+License: Public Domain (CC0)
+Origin: https://opengameart.org/content/bub-block-sound-effects
+
+Complete sound effects package from my XBLIG game, Bub Block. All sounds were made with household objects and include several dropping and breaking effects, menu clicks, opening/closing noises, and two saw blades. The full download comes with 20 WAV files total.
+
+Copyright/Attribution Notice: 
+Credit to "Roppy Chop Studios" would be nice but isn't required.

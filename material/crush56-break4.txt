@@ -1,0 +1,8 @@
+Author: Roppy Chop Studios (http://www.roppychop.com/)
+License: Public Domain (CC0)
+Origin: https://opengameart.org/content/bub-block-sound-effects
+
+produced by mixing all the 3 break files by roppychop and applying voice exciter plugin to get higer (metallic) frequencies.
+
+Copyright/Attribution Notice: 
+Credit to "Roppy Chop Studios" would be nice but isn't required.

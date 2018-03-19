@@ -1,3 +1,5 @@
 Author: yd
-Origin: http://opengameart.org/content/platformer-sprites
-License: CC0/Public Domain (http://creativecommons.org/publicdomain/zero/1.0/)
+License: Public Domain (CC0)
+Origin: https://opengameart.org/content/old-pagesflip-with-sound
+
+Old paper page from the image of the old public domain book. A simple animation of flipping a page with sound.

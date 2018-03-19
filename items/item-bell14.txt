@@ -1,0 +1,5 @@
+Author: Archeos <yuxiarlab@gmail.com>
+License: Public Domain (CC0)
+Origin: https://freesound.org/people/Archeos/sounds/174725/
+
+A simple bell sound created with additive synthesis. A combination of eleven oscillator, each one with a different envelope. The resulting udible tone is more or less a B. The sound itself is mixed with a simple piano B note, just to aid tone recognition.

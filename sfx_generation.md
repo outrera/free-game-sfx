@@ -4,6 +4,14 @@ If you have some effect that you want to make loopable, then cut it in the middl
 
 Typical of producing unusual sounds is mixing several pitch-shifted versions of the same sample. That way you can get robotic or monster sounding voice out of human one. For example, to produce satanic sounding voice, record normally, then reverse and pitch-shift down by 50%
 
+Audacity's "Effect -> Delay" produces typical 90ies games magic sound effects out of boring sounding input. Try following settings:
+Delay type: bouncing ball
+Delay time: 0.07
+Pitch change effect: Pitch/Tempo
+Pitch change per echo: 1.9
+Number of echoes: 30
+Allow duration to change: Yes
+
 Audacity's "Effect -> Sliding Time Scale/Pitch Shift" produces awesome effects from existing audio files.
 
 Heavy reverb could be used too.

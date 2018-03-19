@@ -1,0 +1,9 @@
+Author: Gumichan01
+License: CC-BY-SA 3.0
+Origin: https://opengameart.org/content/shots
+
+This is a set of shot sounds in Target Xplosion.
+It can be used in any kind of shoot'em up, in particular in manic shooter and run'n'gun games.
+
+Copyright/Attribution Notice: 
+If you need to use this sound in your personal project, credit me as Gumichan01

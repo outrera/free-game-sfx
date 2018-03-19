@@ -1,0 +1,10 @@
+Author: Paolo D'Emilio 'copyc4t' (http://www.freesound.org/people/copyc4t/)
+License: CC-BY 3.0
+Origin: https://opengameart.org/content/levelup-sound-atmospheric
+
+Remake (not extremely faithful) of the "mission complete" sound from Dead Space, as requested by imlongcat.
+
+Done by layering "Goblins" from FluidR3_GM.sf2 (via QSynth) and "Voice OOH", "Soft Pad", "Ice Rhodes1" and "Soft Synth 1" from ZynAddSubFX.
+
+Attribution Instructions: 
+Not being the only copyc4t around (nomen, omen!) please write it all lowercase and add either my real name (Paolo D'Emilio) or specify "from OpenGameArt", "from Freesound", or "from SoundCloud". Even better by linking any of those profiles directly: http://opengameart.org/users/copyc4t http://www.freesound.org/people/copyc4t/ https://soundcloud.com/copyc4t
