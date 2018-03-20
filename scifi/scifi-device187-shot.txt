@@ -1,0 +1,24 @@
+Author: Nikita Sadkov, Erich Izdepski 'digitl', Gobusto, kindland
+License: CC-BY 3.0
+Origin: https://github.com/saniv/free-game-sfx
+
+Heavy laser charging and shot.
+
+
+SAMPLES USED:
+
+Author: Erich Izdepski 'digitl'
+License: CC-BY 3.0
+Origin: https://opengameart.org/content/steampunk-electric-effects
+
+Author: kindland
+License: Public Domain (CC0)
+Origin: https://opengameart.org/content/spaceship-shoting
+
+Author: Erich Izdepski 'digitl', Nikita Sadkov
+License: CC-BY 3.0
+Origin: https://opengameart.org/content/electricity-sound-effects
+
+Author: Gobusto
+License: CC-BY-SA 3.0
+Origin: https://opengameart.org/content/button-press

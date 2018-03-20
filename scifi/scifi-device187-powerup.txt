@@ -1,0 +1,12 @@
+Author: Nikita Sadkov, Erich Izdepski 'digitl'
+License: CC-BY 3.0
+Origin: https://github.com/saniv/free-game-sfx
+
+Based of electricity sample by Erich Izdepski 'digitl'. So credit him.
+
+Could be used for some heavy gun charging, before a shot. Or for an anticlimatic comedic effect, if shot is really puny.
+
+Samples used:
+Author: Erich Izdepski 'digitl'
+License: CC-BY 3.0
+Origin: https://opengameart.org/content/steampunk-electric-effects
