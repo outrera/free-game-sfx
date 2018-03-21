@@ -1,0 +1,5 @@
+author: p0ss (https://opengameart.org/users/p0ss)
+license: CC-BY-SA 3.0, GPL2, GPL3
+origin: https://opengameart.org/content/spell-sounds-starter-pack
+
+original sound was extended using delay effect.

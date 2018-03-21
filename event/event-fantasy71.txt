@@ -1,0 +1,5 @@
+Author: Nikita Sadkov
+License: Public Domain (CC0)
+Origin: https://github.com/saniv/free-game-sfx
+
+Based of a public sfx by northern87 from http://freesound.org/people/northern87/sounds/131099/

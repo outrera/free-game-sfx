@@ -1,5 +1,5 @@
 Author: Ove Melaa (Omsofware@hotmail.com)
-License: CC-BY
+License: CC-BY 3.0
 Origin: http://opengameart.org/content/oves-essential-game-audio-pack-collection-160-files-updated
 
 Attribution Instructions: 
