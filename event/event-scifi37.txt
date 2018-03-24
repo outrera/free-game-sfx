@@ -1,0 +1,6 @@
+author: The Real Monoton Artist (http://www.soundcloud.com/the-real-monoton-artist)
+license: Public Domain (CC0)
+origin: http://opengameart.org/content/metal-song-energetic
+        http://www.tinyworlds.org/duckstruction.html
+
+This is an edit of original song.

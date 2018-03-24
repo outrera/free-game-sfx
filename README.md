@@ -1,7 +1,7 @@
-# Free Game Art
-A collection of sound effects with Public Domain,CC-BY-SA,GPL,BSD,MIT licenses - anything allowed to be used in your free or commercial game, as long as you credit the original producers.
+# Free Game Sfx
+A collection of sound effects with Public Domain,CC-BY-SA,GPL,BSD,MIT licenses - anything allowed to be used in your free or commercial game, as long as you credit the original authors.
 
-Effects are losely sorted into various groups. part/ folder files are intended to be used as parts in other effects production. These are usually small simple well-defined pieces
+Effects are losely sorted into various groups. part/ folder files are intended to be used as parts in other effects production. These are usually small simple and well-defined pieces, like impulse responses or wave cycle.
 
 Feedback is accepted at snv985@gmail.com
 
