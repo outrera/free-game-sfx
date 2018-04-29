@@ -1,0 +1,7 @@
+author: tyops
+license: CC-BY 3.0
+origin: https://freesound.org/people/tyops/sounds/234226/
+
+Another scary sound with a little of suspense. Probably good for an scary environment.
+Enjoy it :)
+Software: Cubase 5(midi file)

@@ -1,0 +1,5 @@
+author: Tichomir Dunlop 'Tiskolin'
+license: CC-BY-SA 4.0
+origin: https://opengameart.org/content/gxsccgxopll-harp-ambience-loop
+
+Harp ambience loop with GXSCC/GXOPLL versions. After unzipping the folder, you will get two .WAV files, one is the GXSCC version (more 8-bit), and the other is the GXOPLL version (more modern, but retro.)

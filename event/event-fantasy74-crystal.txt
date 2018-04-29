@@ -1,0 +1,6 @@
+author: tyops
+license: CC-BY 3.0
+origin: https://freesound.org/people/tyops/sounds/253959/
+
+Crystal sound sample. 140 bpm.
+Software: Cubase 5(midi file)

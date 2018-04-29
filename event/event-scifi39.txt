@@ -1,0 +1,7 @@
+author: tyops
+license: CC-BY 3.0
+origin: https://freesound.org/people/tyops/sounds/235814/
+
+An electric sound, probably good for things involved with technology and futuristic scenes.
+Enjoy it ;)
+Software: Cubase 5(midi file)

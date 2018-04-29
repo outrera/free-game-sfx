@@ -1,0 +1,10 @@
+Author: isaiah658
+License: Public Domain (CC0)
+Origin: https://opengameart.org/content/heavenly-loop
+
+A seamless heavenly / dreamy sound loop. While it is a short loop, it seems to hold up quite well against repetition and would be suitable to use for about 1 to 2 minutes. Could work on a title screen, a menu, a cutscene or something. It's very ambient and doesn't try to draw too much attention but rather set the mood.
+
+It was made using only ZynAddSubFX in LMMS.
+
+Copyright/Attribution Notice: 
+Credit to isaiah658 is not need but is appreciated.

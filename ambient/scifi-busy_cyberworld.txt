@@ -1,0 +1,7 @@
+Author: TinyWorlds
+License: Public Domain (CC0)
+Origin: https://opengameart.org/content/scifi-city-ambient-loop
+
+Created by manipulating multiple CC0 samples with https://iansnyder.itch.io/five-stringed-instrument and mixing them together.
+
+Can be downloaded as Ogg and Mp3 and loops (kinda) seamlessly.

@@ -1,0 +1,5 @@
+Author: MidFag
+License: Public Domain (CC0)
+Origin: https://opengameart.org/content/time-slow
+
+Freeze time effect

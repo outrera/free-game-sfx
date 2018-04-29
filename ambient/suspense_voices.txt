@@ -1,0 +1,6 @@
+author: tyops
+license: CC-BY 3.0
+origin: https://freesound.org/people/tyops/sounds/235815/
+
+Suspense voices. Not to loud, so you can use them to fill the silence scenes.
+Software: Cubase 5(midi file)

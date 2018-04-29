@@ -1,0 +1,5 @@
+author: Nikita Sadkov, section31
+license: Public Domain (CC0)
+origin: https://github.com/saniv/free-game-sfx
+
+Passed through delay plugin public domain sample by section31: https://opengameart.org/content/200-production

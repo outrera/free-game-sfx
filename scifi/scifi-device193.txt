@@ -1,0 +1,5 @@
+author: section31
+license: Public Domain (CC0)
+origin: https://opengameart.org/content/heavy-steroid-use
+
+extracted out of a public domain track by section31

@@ -1,0 +1,6 @@
+author: tyops
+license: CC-BY 3.0
+origin: https://freesound.org/people/tyops/sounds/250843/
+
+Spaceship, start engine sound.
+Software: Cubase 5(midi file)

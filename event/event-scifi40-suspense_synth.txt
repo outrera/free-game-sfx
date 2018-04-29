@@ -1,0 +1,7 @@
+author: tyops
+license: CC-BY 3.0
+origin: https://freesound.org/people/tyops/sounds/326820/
+
+Suspense synth, it kinda reminds of Mr.Robot.
+Loopable.
+Software: Cubase 5

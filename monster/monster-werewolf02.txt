@@ -1,0 +1,7 @@
+Author: Nikita Sadkov, limetoe
+License: Public Domain (CC0)
+Origin: https://github.com/saniv/free-game-sfx
+
+passed through vocoder public domain sfx by limetoe https://freesound.org/people/limetoe/sounds/277435/
+
+limetoe later pulled it from free access, but said it is still okay to use it.

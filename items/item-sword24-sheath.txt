@@ -1,0 +1,6 @@
+Author: Qat
+License: Public Domain (CC0)
+Origin: https://freesound.org/people/Qat/sounds/107590/
+
+I wanted a sword sheathing sound and found the nice wooden/lacquer sound (from Q.K.'s Sword_Sheath.wav)
+and then added a quiet sample (from Streety's public domain sword1.flac: https://freesound.org/people/Streety/sounds/30244/) to make it more metallic.

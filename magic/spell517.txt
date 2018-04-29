@@ -1,0 +1,7 @@
+Author: Michael Kurinnoy
+License: GPL3
+Origin: http://opengameart.org/content/space-battle-game-sounds-astromenace
+        http://www.viewizard.com/download.php?forceos=source
+
+
+based of an effect by Michael Kurinnoy

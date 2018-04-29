@@ -1,0 +1,8 @@
+Author: isaiah658
+License: Public Domain (CC0)
+Origin: https://opengameart.org/content/reversing-time-stuck-in-time
+
+A sound effect meant to represent reversing time / traveling backwards / stuck in time. Could definetly represent other effects though. It should seamlessly loop. The inspiration for the effect comes from the challenge theme "Lost in Time" and a game called Life is Strange where the main character can reverse time which quickly gets out of hand leading to the character jumping back and forth between time trying to fix everything. A sort of similiar sound effect is used in that game when the character is reversing time. All the sounds used to make this are from the ZynAddSubFX synthesizer included in LMMS.
+
+Copyright/Attribution Notice: 
+Credit to isaiah658 is not required, but is appreciated.
