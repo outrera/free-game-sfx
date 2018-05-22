@@ -1,0 +1,5 @@
+author: Spring
+license: Public Domain (CC0)
+origin: https://opengameart.org/content/jay-the-doggo-sound-effects
+
+Generic sound effects...

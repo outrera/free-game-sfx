@@ -1,0 +1,8 @@
+Author: jukeri12, hypocriticaldump007
+License: GPL2
+Origin: https://opengameart.org/content/dog-sounds-0
+
+Idling, pain, bite and death sounds for the different dog. Originally made for KatanAlia, my brother did voice acting testing and we found some pretty cool sounds from those sessions.
+
+Attribution Instructions:
+Please credit me (jukeri) or my brother (hypocriticaldump007) in your readme file:D

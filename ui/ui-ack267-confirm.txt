@@ -1,0 +1,11 @@
+Author: ObsydianX (https://obsydianx.itch.io/)
+License: Public Domain (CC0)
+Origin: https://obsydianx.itch.io/interface-sfx-pack-1
+
+Here is a pack I made of over 200+ interface sounds I've created to help game designers who have no time or budget for audio production. When creating these sounds, I had PSX-era RPG's in mind but I'm sure it'll work for many other games. They kinda have an upbeat feel to most of them so it won't work for your average Slender clone but see what you can do with them.
+
+This pack contains Confirm Tones (going forward in a menu), Back Tones (going back in a menu), Cursor Tones and Error Tones (when an action cannot be completed, like clicking on a grayed out "Load Game" when no saves are present).
+
+I have them split into different styles, with multiple patterns per style. Example: Confirm Style 1 has 7 different patterns. And there are 6 different confirm tones! The pack comes in two flavors: WAV and OGG.
+
+These are CC0 licensed and are free but I wouldn't say no to you buying me a cup of coffee.
