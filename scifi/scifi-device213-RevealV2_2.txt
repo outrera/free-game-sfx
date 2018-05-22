@@ -1,0 +1,25 @@
+Author: Timothy Adan (https://timothyadan.itch.io/)
+License: Creative Commons Attribution NoDerivatives v4.0 International (https://itch.io/game-assets/assets-cc4-by-nd)
+Origin: https://timothyadan.itch.io/scifi-tactics-sfx-bundle
+
+pack of sound effects I used in a game sound replacement I created. With that project finished, I am making a majority of the sounds I created freely available to use as you see fit.
+
+
+This pack includes a large variety of UI sounds (blips and bloops) as well as objects (sliding doors and containers) and ambiances (whurrs and wobbles).
+
+
+Pack includes:
+
+ 6 ambiant loops
+
+6 character sounds
+
+10 object sounds
+
+13 stings
+
+25 UI sounds
+
+and assorted other sounds.
+
+If you would like to see the video I made and hear these sounds in action, feel free to visit my website here: https://timothyadan.wordpress.com/
