@@ -1,0 +1,5 @@
+Author: Nikita Sadkov
+License: Public Domain (CC0)
+Origin: https://github.com/saniv/free-game-sfx
+
+this is an extended version of public domain sfx by Écrivain https://opengameart.org/content/random-sfx
