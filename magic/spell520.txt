@@ -1,0 +1,5 @@
+author: Nick "Kelvin Shadewing" Kovacs (http://www.kelvinshadewing.net)
+license: CC-BY 3.0
+origin: https://opengameart.org/content/kelvin-shadewings-sound-pack-1
+
+based of pulse1.wav by Nick "Kelvin Shadewing" Kovacs
