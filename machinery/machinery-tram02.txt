@@ -1,0 +1,5 @@
+Author: Nikita Sadkov
+License: Public Domain (CC0)
+Origin: https://github.com/saniv/free-game-sfx
+
+My own badly done recording tram in Kyiv. It had more noise than the proper content, which I tried to remove, so now it sounds nothing like a real tram. Still probably be used for some abstract machinery sounds.
