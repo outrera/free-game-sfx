@@ -1,0 +1,5 @@
+Author: Spring
+License: Public Domain (CC0)
+Origin: https://opengameart.org/content/buzzsaw-sound-effect
+
+A buzzsaw sound effect which itself is made from a SAWTOOTH WAVE

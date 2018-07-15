@@ -1,0 +1,17 @@
+author: rubberduck
+license: Public Domain (CC0)
+origin: https://opengameart.org/content/30-cc0-sfx-loops
+
+I created 30 different SFX loops including:
+
+3x alarm
+3x ambient
+11x machine
+3x noise
+2x water pump
+1x rain
+1x rolling sound
+1x hand saw
+1x boiling water
+1x flowing water
+3x weird
