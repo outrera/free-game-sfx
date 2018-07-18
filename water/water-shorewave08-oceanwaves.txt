@@ -1,0 +1,5 @@
+Author: yd (http://ydstuff.wordpress.com/)
+License: Public Domain (CC0)
+Origin: https://opengameart.org/content/enemy-ship-approaching
+
+The goal was to make a very short, kind of loopable track with a tense mood of approaching naval fight. The ocean waves sound was borrowed from Freesound and is CC0. The Soundfonts used in LMMS files are from Sonatina Symphonic Orchestra (http://sso.mattiaswestlund.net/)
