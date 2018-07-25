@@ -1,0 +1,10 @@
+author: kindland
+license: Public Domain (CC0)
+origin: https://opengameart.org/content/forgoten-tomb-ambience
+
+Hi, i made this some while ago and i though it might be usefull for others, i only have mp3.
+
+Works good for tombs, labirynths, etc, with this ambience playing on low volume.
+
+Attribution Instructions: 
+none
