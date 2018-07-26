@@ -2,6 +2,8 @@ Author: Ashe Kirk 'OwlishMedia' (https://freesound.org/people/OwlStorm/)
 License: Public Domain (CC0)
 Origin: https://opengameart.org/content/sound-effects-pack
 
+Extracted from "shoes_breath.wav"
+
 Here's a big ol' pack of sound effects I've recorded over the years. Most can also be found on my Freesound.org profile: https://freesound.org/people/OwlStorm/
 
 Doesn't include the 8-bit retro sounds I already put on here.
