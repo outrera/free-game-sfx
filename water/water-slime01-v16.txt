@@ -1,0 +1,18 @@
+author: rubberduck
+license: Public Domain (CC0)
+origin: https://opengameart.org/content/50-cc0-sci-fi-sfx
+
+I created 50 sci-fi sfx including
+
+3x beeps
+2x explosions
+5x loops
+12x misc
+6x retro beeps
+1x retro explosion
+2x retro laser
+1x rocket
+2x shoot
+2x teleport
+9x "terminal sounds"
+5x weird
