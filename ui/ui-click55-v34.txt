@@ -1,0 +1,9 @@
+author: Ashe 'OwlishMedia' (http://olivebranchesrpg.com/)
+license: Public Domain (CC0)
+origin: https://opengameart.org/content/87-clickety-clips
+
+A click for any occasion!
+
+This pack contains clicks, snaps, switches, button pushes, and... well, that's pretty much all. Just clicky noises.
+
+Use for UI or in-game interactions.

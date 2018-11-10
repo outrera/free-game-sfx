@@ -1,0 +1,19 @@
+author: Ashe 'OwlishMedia' (http://olivebranchesrpg.com/)
+license: Public Domain (CC0)
+origin: https://opengameart.org/content/202-more-sound-effects
+
+I recorded some more sounds around my home.
+
+Included:
+    Camera sounds
+    Cloth sounds
+    Drinking water sounds
+    Keys, locking and unlocking, opening doors
+    Kitchen items and appliances
+    Coins and money
+    Paper, scissors, masking tape, stapler
+    Phone
+    Plastic crinkling
+    Velcro
+    Fidget spinner
+    Nasal spray pump

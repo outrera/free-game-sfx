@@ -1,0 +1,5 @@
+author: Tichomir Dunlop 'Tiskolin'
+license: CC-BY-SA 4.0
+origin: https://opengameart.org/content/zombie-voice-sound-effect
+
+Just messing around with my voice. Hope this might come in handy!

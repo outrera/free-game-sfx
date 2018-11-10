@@ -1,0 +1,9 @@
+author: rubberduck
+license: Public Domain (CC0)
+origin: https://opengameart.org/content/100-cc0-sfx-2
+
+another pack with 100 CC0 sfx
+
+Note: the preview does not contain all sounds, it also contains loopable sfx which are shorter in the preview. Included are:
+
+air flowing, door, various footstep, glass, hit, item, loops (ambient, machine, construction site, highway / street, flowing water), metal / metal hit, misc, stones, switch, thunder and wood / wood hit -  sounds

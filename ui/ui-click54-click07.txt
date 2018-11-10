@@ -1,0 +1,9 @@
+author: m1chiboi (https://www.instagram.com/m1chiboi/)
+license: Public Domain (CC0)
+origin: https://opengameart.org/content/ui-soundpack-by-m1chiboi-bleeps-and-clicks
+
+UI Soundpack by m1chiboi made at beansjam mobile 2018
+
+13x bleeps
+
+14x clicks 

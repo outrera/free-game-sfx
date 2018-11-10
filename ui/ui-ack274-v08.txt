@@ -1,0 +1,5 @@
+author: rubberduck
+license: Public Domain (CC0)
+origin: https://opengameart.org/content/30-weird-cc0-sfx
+
+I created 30 weird sound effects, partly recorded and edited with filters, others are synth effects.

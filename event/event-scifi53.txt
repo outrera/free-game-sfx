@@ -1,0 +1,5 @@
+author: Spring-Enterprises
+license: Public Domain (CC0)
+origin: https://opengameart.org/content/a-kinda-cool-sound-effect
+
+It can probably be used for something

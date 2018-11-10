@@ -1,0 +1,21 @@
+author: Daniel Michel 'Dizzy Crow' (http://dizzy-crow.com/)
+license: Public Domain (CC0)
+origin: https://opengameart.org/content/8-bit-sound-fx
+
+Retro sound effects from my old Lunar Lander game. Included files:
+
+Debris 1 - 3
+Decompression
+Driving
+Explosion 1 - 6
+Parachutes
+Rustle 1 - 3
+ThrustLow
+Touch
+VictoryBig
+VictorySmall
+WaterSplash
+Wind
+WindParticles
+
+Goes well with this sprite sheet and this song (Jupiter, the Bringer of Jollity) that were created for the same game.

@@ -1,0 +1,5 @@
+author: Tichomir Dunlop 'Tiskolin'
+license: CC-BY-SA 4.0
+origin: https://opengameart.org/content/siren-air-raid-sound-effect-loop
+
+Siren air raid sound effect made with the Korg Kaossilator 1.0. The ZIP file contains WAV, AIFF, and OGG versions. My apologies for not splicing the track correctly, it might take some editing before it is usable. Enjoy!
