@@ -1,0 +1,6 @@
+Author: withthelove (http://www.indiedb.com/company/with-the-love-studios)
+License: CC-BY 4.0
+Origin: https://opengameart.org/content/roman-rescue-run-pompeii-art-and-sound-pack
+
+The sounds are all original created by me with sxfr.  The death and end of level fanfares are also by me, done on the quick in fruity loops.
+I've included the original sfs files for them in case anyone wants to fiddle with them further.

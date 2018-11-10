@@ -1,0 +1,5 @@
+Author: Nikita Sadkov
+License: Public Domain (CC0)
+Origin: free-game-sfx
+
+produced in Audacity out of a pink noise.

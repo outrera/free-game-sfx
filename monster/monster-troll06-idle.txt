@@ -1,0 +1,9 @@
+Author: Darsycho (https://darsycho.itch.io/)
+License: Public Domain (CC0)
+Origin: https://opengameart.org/content/big-scary-troll-sounds
+
+Troll sounds I did for Mortila, a mod for Hexen.
+https://forum.zdoom.org/viewtopic.php?f=19&t=34872
+
+Copyright/Attribution Notice: 
+Feel free to use for whatever, credit is appreciated!
