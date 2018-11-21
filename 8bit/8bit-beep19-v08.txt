@@ -1,0 +1,5 @@
+author: dannerz <danzorz42@gmail.com> (https://dannerz.itch.io/)
+license: Public Domain
+origin: https://dannerz.itch.io/freesoundeffects
+
+50 synth sound effects. old fashioned style. free for use in every way.
