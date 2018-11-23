@@ -1,0 +1,6 @@
+Author: qubodup, Halleck
+License: CC-BY 3.0
+Origin: https://freesound.org/people/qubodup/sounds/442670/
+
+ power spark or electricity generator sound made for buildings in real-time strategy games. Specifically for Warzone 2100 http://forums.wz2100.net/viewtopic.php?f=49&t=14921
+Licensed under CC-BY 3.0 or later, is a remix of the following sound (attribution required) JacobsLadderShort1.flac by Halleck from https://freesound.org/people/Halleck/sounds/19484/ licensed under CC-BY 3.0.

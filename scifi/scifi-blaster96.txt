@@ -1,0 +1,5 @@
+author: Asymmetric (https://asymmetric.itch.io/)
+license: Public Domain
+source: https://asymmetric.itch.io/laser-gunshot-sfx
+
+Just a simple Laser Gunshot sfx asset, I made for a mod for a game called Starbound.  I made the sound using a Slinky at home. If you'd like me to upload the file in any other format, just let me know and I will.  Other than that, feel free to use at your will and enjoy! :)

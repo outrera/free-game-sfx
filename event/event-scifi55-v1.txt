@@ -1,0 +1,13 @@
+author: Amon (www.amon.co)
+license: CC-BY-SA 3.0
+origin: https://opengameart.org/content/various-c64-sid-chip-sound-effects
+
+The archive contains 11 effects created with FLStudio using my C64 Sid Chip VST.
+
+If anybody remebers the C64 then they'll know that even today it is unrivled in its awesomeness.
+
+ 
+
+Let ye come forth to say otherwise and the flames of hell will be the very least of your sufferings! :)
+Attribution Instructions: 
+just a link back to my website www.amon.co would be appreciated 
