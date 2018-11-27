@@ -1,0 +1,6 @@
+author: Timopy (https://opengameart.org/users/timopy)
+license: Public Domain (CC0)
+origin: https://opengameart.org/content/misc-sfx-pack
+
+A pack of 52 miscellanious sound effects. Most in .ogg format, a few in .wav. Check here for a list and short descriptions. (https://pastebin.com/qcFgVVY0 )
+
