@@ -1,0 +1,7 @@
+Author: The Glest Team
+License: CC-BY-SA 3.0
+Origin: https://sourceforge.net/projects/glest/
+
+I've removed a few questionabl sfx files, the the pig_select4.wav sound, stolen from Warcraft 2.
+
+Glest is Copyright to The Glest Team, 2001-2009, with its code released under GNU General Public License (GPL) Version 2. Its data (such as models and sounds) are released under the Creative Commons Attribution-ShareAlike 3.0 Unported license. -- https://docs.megaglest.org/Glest

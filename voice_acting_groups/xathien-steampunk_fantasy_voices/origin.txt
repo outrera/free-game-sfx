@@ -1,0 +1,8 @@
+Author: xathien (https://xathien.me)
+License: Public Domain (CC0)
+Origin: https://opengameart.org/content/steampunk-fantasy-voices
+
+A small collection of voices originally recorded for a Ludum Dare project. The minions and all of the hero/enemy voices are of various cheesy caricatures! I hope you can make something awesome with them!
+
+For the naming scheme: "See" indicates the character sees an enemy, "Attack" might be when they attack, "Bomb" is when they're hit with a bomb item, etc.
+

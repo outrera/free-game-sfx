@@ -1,0 +1,5 @@
+author: Nikita Sadkov
+license: Public Domain (CC0)
+origin: free-game-sfx
+
+produced out of a public domain sfx files by phoenix1291 https://opengameart.org/content/various-sound-effects-pack-1

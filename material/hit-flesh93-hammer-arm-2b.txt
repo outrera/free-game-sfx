@@ -1,0 +1,18 @@
+Author: Will Leamon (http://www.706gaming.org)
+License: OGA-BY 3.0
+Origin: https://opengameart.org/content/fleshy-fight-sounds
+
+This is a group of SFX for a game jam game that never came to light. It was based on fighting zombies and the team wanted a real "fleshy" sort of vibe. 
+
+Sounds come in pairs, one for an armored hit and one for an unarmored hit. Each hit type has an standard and alternative sound. So each hit type has a total of four files.
+
+Hit Types:
+
+    Gun
+    Hammer
+    Piercing (Arrow)
+    Punch
+    Sword
+
+Copyright/Attribution Notice: 
+Additional Sound FX by Will Leamon
