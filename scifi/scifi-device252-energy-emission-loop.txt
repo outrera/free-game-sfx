@@ -1,0 +1,8 @@
+Author: Marian Pekár 'zeroisnotnull'
+License: Public Domain (CC0)
+Origin: https://opengameart.org/content/seamless-energy-emission-loop
+
+I made this as a sound for flying energy ball (in game as moving shield) in my Laser Asteroids
+
+https://zeroisnotnull.itch.io/laserasteroids
+

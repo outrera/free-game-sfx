@@ -1,0 +1,5 @@
+author: xhunterko
+license: Public Domain (CC0)
+origin: https://opengameart.org/content/static
+
+I came looking for a good, static radio sound. I couldn't find one. So I made this. Hope someone likes it.

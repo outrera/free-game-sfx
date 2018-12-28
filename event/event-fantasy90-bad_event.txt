@@ -1,0 +1,12 @@
+Author: Manveru
+License: CC-BY 3.0, CC-BY-SA 3.0, GPL2, GPL3
+Origin: https://opengameart.org/content/danger-sight
+
+I made a simple music for situations of danger. This turned out to be similar to the music in DinoCrisis when raptos appear.
+
+The file contains two tracks. One is danger.ogg and the other is sight.ogg which I made to use in situations of warning for imminent danger such as when the adventurers spot some bone rests.
+
+Note I am using a LIVE linux to install it and remove completely window, therefore at moment I cannot use audacity to add the sound sight.ogg in the preview but it is inside the file. Enjoy!
+
+Copyright/Attribution Notice: 
+Mention the author (Manveru) and provide a link to this opengameart page. Enjoy!
