@@ -1,0 +1,7 @@
+Author: Mineat
+License: Public Domain (CC0)
+Origin: https://opengameart.org/content/3-strange-sound-effects
+
+One is like a bird enemy's warble, one sounds like a girl's scream, while the other sounds like a vortex. Made in bfxr. Interested in any of them? XP
+
+Preview generated with https://github.com/qubodup/ogatools
